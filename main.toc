@@ -1,1 +1,8 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Time series}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Nimbus-7 seaice timeseries}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}ERA5 seaice timeseries}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Comparison of datasets}{16}{subsection.2.3}
+\contentsline {section}{\numberline {3}Indicies and SIC}{24}{section.3}
+\contentsline {subsection}{\numberline {3.1}Index time series}{24}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Comparing with SIC}{37}{subsection.3.2}

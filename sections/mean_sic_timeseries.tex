@@ -1,0 +1,44 @@
+\section{Time series}
+\subsection{Nimbus-7 seaice timeseries}
+Below are the mean SIC time series for seaice in Antarctica. All of these are produced from the NSIDC dataset with different variations of post-processing.
+
+\foreach\tempres in {monthly,seasonal,annual}{%
+	\foreach\decomp in {raw,anomalous}{%
+		\foreach\tempdecomp in {raw, detrended}{%
+		\begin{figure}[H]
+		\includegraphics{images/timeseries/SIC/\decomp_\tempres_1_\tempdecomp_nsidc}
+		\caption{Mean \decomp\ \tempres\ \tempdecomp\ SIC in Antarctica from the NSIDC dataset.}
+		\end{figure}
+		}%
+	}%
+}
+
+\subsection{ERA5 seaice timeseries}
+Below are the mean SIC time series for seaice in Antarctica. All of these are produced from the ECMWF ERA5 dataset with different variations of post-processing.
+
+\foreach\tempres in {monthly,seasonal,annual}{%
+	\foreach\decomp in {raw,anomalous}{%
+		\foreach\tempdecomp in {raw, detrended}{%
+			\begin{figure}[H]
+				\includegraphics{images/timeseries/SIC/\decomp_\tempres_1_\tempdecomp_ecmwf}
+				\caption{Mean \decomp\ \tempres\ \tempdecomp\ SIC in Antarctica from the ECMWF ERA5 dataset.}
+			\end{figure}
+		}%
+	}%
+}
+
+
+
+
+\subsection{Comparison of datasets}
+We can plot these time series together to look at how similar they are.
+\foreach\tempres in {monthly,seasonal,annual}{%
+	\foreach\decomp in {raw,anomalous}{%
+		\foreach\tempdecomp in {raw, detrended}{%
+			\begin{figure}[H]
+				\includegraphics{images/timeseries/SIC/SIC_ERA5_\decomp_\tempres_1_\tempdecomp}
+				\caption{Comparison of mean \decomp\ \tempres\ \tempdecomp\ SIC in Antarctica datasets.}
+			\end{figure}
+		}%
+	}%
+}

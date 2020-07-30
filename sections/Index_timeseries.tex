@@ -1,0 +1,32 @@
+\section{Indicies and SIC}
+\subsection{Index time series}
+
+\foreach\tempres in {monthly,seasonal,annual}{%
+	\foreach\decomp in {raw,anomalous}{%
+		\foreach\tempdecomp in {raw, detrended}{%
+			\begin{figure}[H]
+			\foreach\indicies in {SAM,IPO,ENSO,DMI}{%
+				\includegraphics{images/timeseries/INDICIES/\indicies_\indicies_\decomp_\tempres_\tempdecomp}
+			}%
+			\caption{\decomp\ \tempres\ \tempdecomp\ index values}
+			\end{figure}
+		}%
+	}%
+}
+
+\subsection{Comparing with SIC}
+
+
+\foreach\tempres in {monthly,seasonal,annual}{%
+	\foreach\decomp in {raw,anomalous}{%
+		\foreach\tempdecomp in {raw, detrended}{%
+			\begin{figure}[H]
+				\foreach\indicies in {SAM,IPO,ENSO,DMI}{%
+					\includegraphics{images/timeseries/SIC_INDICIES/SIC_\indicies_\indicies_\decomp_\tempres_\tempdecomp_nsidc}
+					
+					\caption{\decomp\ \tempres\ \tempdecomp\ \indicies\  compared with SIC}
+				}%
+			\end{figure}
+		}%
+	}%
+}
