@@ -1,0 +1,57 @@
+\section{Correlations}
+
+\subsection{Single correlations}
+\begin{table}[H]
+	\begin{tabular}{rllll}
+		\hline
+		& \textbf{SAM} & \textbf{IPO} & \textbf{DMI} & \textbf{ENSO} \\ \hline
+		\textbf{raw monthly}                  & -0.02765     & -0.02345     & 0.15058      & -0.02183      \\
+		\textbf{raw monthly detrended}        & -0.03526     & -0.01234     & 0.145801     & -0.0293       \\
+		\textbf{anomalous monthly}            & 0.159865     & -0.12679     & 0.112145     & 0.065557      \\
+		\textbf{anomalous monthly detrended}  & 0.12446      & -0.06556     & 0.113758     & 0.026325      \\
+		\textbf{raw seasonal}                 & -0.04435     & -0.02979     & 0.058697     & -0.01502      \\
+		\textbf{raw seasonal detrended}       & -0.06027     & -0.01462     & 0.056316     & -0.02607      \\
+		\textbf{anomalous seasonal}           & 0.199563     & -0.13999     & 0.02738      & 0.092204      \\
+		\textbf{anomalous seasonal detrended} & 0.13901      & -0.06811     & 0.0077       & 0.042388      \\
+		\textbf{raw annual}                   & 0.275374     & -0.13953     & 0.022091     & 0.118458      \\
+		\textbf{raw annual detrended}         & 0.143103     & -0.02928     & -0.02075     & 0.030127      \\
+		\textbf{anomalous annual}             & 0.28453      & -0.16447     & 0.022655     & 0.138644      \\
+		\textbf{anomalous annual detrended}   & 0.14874      & -0.05355     & -0.02176     & 0.049354      \\ \hline
+	\end{tabular}
+\caption{Correlations}
+\end{table}
+
+
+\begin{table}[H]
+	\begin{tabular}{rllll}
+		\hline
+		& \textbf{SAM} & \textbf{IPO} & \textbf{DMI} & \textbf{ENSO} \\ \hline
+		\textbf{raw monthly}                  & 0.545995     & 0.608632     & 0.238801     & 0.633648      \\
+		\textbf{raw monthly detrended}        & 0.441316     & 0.787607     & 0.254207     & 0.522291      \\
+		\textbf{anomalous monthly}            & 0.000444     & 0.005454     & 0.381538     & 0.151976      \\
+		\textbf{anomalous monthly detrended}  & 0.006383     & 0.151966     & 0.374686     & 0.565468      \\
+		\textbf{raw seasonal}                 & 0.57764      & 0.708405     & 0.47704      & 0.85048       \\
+		\textbf{raw seasonal detrended}       & 0.449018     & 0.85444      & 0.495128     & 0.743489      \\
+		\textbf{anomalous seasonal}           & 0.011406     & 0.077458     & 0.740297     & 0.246199      \\
+		\textbf{anomalous seasonal detrended} & 0.079587     & 0.392155     & 0.925742     & 0.594586      \\
+		\textbf{raw annual}                   & 0.085466     & 0.390525     & 0.895264     & 0.46661       \\
+		\textbf{raw annual detrended}         & 0.378368     & 0.857683     & 0.901609     & 0.853588      \\
+		\textbf{anomalous annual}             & 0.075166     & 0.310509     & 0.892604     & 0.393556      \\
+		\textbf{anomalous annual detrended}   & 0.359672     & 0.742791     & 0.896833     & 0.762327      \\ \hline
+	\end{tabular}
+\caption{P-values}
+\end{table}
+
+
+\subsection{Spatial Correlations}
+
+\foreach\tempres in {monthly,seasonal,annual}{%
+	\foreach\decomp in {raw,anomalous}{%
+		\foreach\tempdecomp in {raw, detrended}{%
+			\begin{figure}[H]
+				\includegraphics{images/correlations/spatial/\decomp_\tempres_\tempdecomp_1_nsidc}
+				\caption{Correlations with \decomp\ \tempres\ \tempdecomp\ SIE in Antarctica from the NSIDC dataset.}
+			\end{figure}
+		}%
+	}%
+}

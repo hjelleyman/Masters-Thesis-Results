@@ -1,8 +1,13 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
-\contentsline {section}{\numberline {2}Time series}{6}{section.2}
-\contentsline {subsection}{\numberline {2.1}Nimbus-7 seaice timeseries}{6}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}ERA5 seaice timeseries}{11}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Comparison of datasets}{17}{subsection.2.3}
-\contentsline {section}{\numberline {3}Indicies and SIC}{25}{section.3}
-\contentsline {subsection}{\numberline {3.1}Index time series}{25}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Comparing with SIC}{37}{subsection.3.2}
+\contentsline {section}{\numberline {2}Time series}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Nimbus-7 seaice timeseries}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}ERA5 seaice timeseries}{12}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Comparison of datasets}{18}{subsection.2.3}
+\contentsline {section}{\numberline {3}Indicies and SIC}{26}{section.3}
+\contentsline {subsection}{\numberline {3.1}Index time series}{26}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Comparing with SIC}{38}{subsection.3.2}
+\contentsline {section}{\numberline {4}Correlations}{62}{section.4}
+\contentsline {subsection}{\numberline {4.1}Single correlations}{62}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Spatial Correlations}{63}{subsection.4.2}
+\contentsline {section}{\numberline {5}Regressions}{75}{section.5}
+\contentsline {subsection}{\numberline {5.1}Scatter}{75}{subsection.5.1}

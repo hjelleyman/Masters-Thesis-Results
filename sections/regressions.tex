@@ -1,0 +1,12 @@
+\section{Regressions}
+\subsection{Scatter}
+\foreach\tempres in {monthly,seasonal,annual}{%
+	\foreach\decomp in {raw,anomalous}{%
+		\foreach\tempdecomp in {raw, detrended}{%
+			\begin{figure}[H]
+				\includegraphics{images/regressions/single/\decomp_\tempres_\tempdecomp_1_nsidc}
+				\caption{Correlations with \decomp\ \tempres\ \tempdecomp\ SIE in Antarctica from the NSIDC dataset.}
+			\end{figure}
+		}%
+	}%
+}

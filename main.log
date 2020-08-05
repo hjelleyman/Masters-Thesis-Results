@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.8.31)  31 JUL 2020 10:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.8.31)  5 AUG 2020 15:51
 entering extended mode
 **./main.tex
 (main.tex
@@ -417,7 +417,7 @@ Overfull \hbox (8.32936pt too wide) in paragraph at lines 6--6
 om the NSIDC 
  []
 
-
+[2]
 Overfull \hbox (0.69194pt too wide) in paragraph at lines 10--10
  [][] [][][]\OT1/cmr/m/n/12 Mean raw an-nual de-trended SIC in Antarc-tica from
  the NSIDC 
@@ -429,7 +429,7 @@ Overfull \hbox (4.02107pt too wide) in paragraph at lines 11--11
  the NSIDC 
  []
 
-[2]
+
 Overfull \hbox (18.80426pt too wide) in paragraph at lines 14--14
  [][] [][][]\OT1/cmr/m/n/12 Mean raw monthly de-trended SIC in Antarc-tica from
  the ECMWF 
@@ -471,28 +471,40 @@ Overfull \hbox (11.4446pt too wide) in paragraph at lines 36--36
 C in Antarc- 
  []
 
-[4])
+[4] [5]
+Overfull \hbox (3.77246pt too wide) in paragraph at lines 100--100
+ [][] [][][]\OT1/cmr/m/n/12 Correlations with anoma-lous monthly de-trended SIE
+ in Antarc- 
+ []
+
+
+Overfull \hbox (3.25024pt too wide) in paragraph at lines 104--104
+ [][] [][][]\OT1/cmr/m/n/12 Correlations with anoma-lous sea-sonal de-trended S
+IE in Antarc- 
+ []
+
+)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [5] (sections/mean_sic_timeseries.tex
-<images/timeseries/SIC/raw_monthly_1_raw_nsidc.pdf, id=257, 352.51021pt x 157.2
+ [6] (sections/mean_sic_timeseries.tex
+<images/timeseries/SIC/raw_monthly_1_raw_nsidc.pdf, id=382, 349.89914pt x 157.2
 9706pt>
 File: images/timeseries/SIC/raw_monthly_1_raw_nsidc.pdf Graphic file (type pdf)
 
 <use images/timeseries/SIC/raw_monthly_1_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC/raw_monthly_1_raw_nsidc.pdf  use
 d on input line 14.
-(pdftex.def)             Requested size: 352.50934pt x 157.29666pt.
-<images/timeseries/SIC/raw_monthly_1_detrended_nsidc.pdf, id=258, 355.96863pt x
+(pdftex.def)             Requested size: 349.89827pt x 157.29666pt.
+<images/timeseries/SIC/raw_monthly_1_detrended_nsidc.pdf, id=383, 350.09372pt x
  157.29706pt>
 File: images/timeseries/SIC/raw_monthly_1_detrended_nsidc.pdf Graphic file (typ
 e pdf)
 <use images/timeseries/SIC/raw_monthly_1_detrended_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC/raw_monthly_1_detrended_nsidc.pd
 f  used on input line 14.
-(pdftex.def)             Requested size: 355.96774pt x 157.29666pt.
-<images/timeseries/SIC/anomalous_monthly_1_raw_nsidc.pdf, id=259, 350.09372pt x
+(pdftex.def)             Requested size: 350.09286pt x 157.29666pt.
+<images/timeseries/SIC/anomalous_monthly_1_raw_nsidc.pdf, id=384, 350.09372pt x
  157.29706pt>
 File: images/timeseries/SIC/anomalous_monthly_1_raw_nsidc.pdf Graphic file (typ
 e pdf)
@@ -500,7 +512,7 @@ e pdf)
 Package pdftex.def Info: images/timeseries/SIC/anomalous_monthly_1_raw_nsidc.pd
 f  used on input line 14.
 (pdftex.def)             Requested size: 350.09286pt x 157.29666pt.
-<images/timeseries/SIC/anomalous_monthly_1_detrended_nsidc.pdf, id=260, 361.510
+<images/timeseries/SIC/anomalous_monthly_1_detrended_nsidc.pdf, id=385, 361.510
 21pt x 157.29706pt>
 File: images/timeseries/SIC/anomalous_monthly_1_detrended_nsidc.pdf Graphic fil
 e (type pdf)
@@ -508,37 +520,37 @@ e (type pdf)
 Package pdftex.def Info: images/timeseries/SIC/anomalous_monthly_1_detrended_ns
 idc.pdf  used on input line 14.
 (pdftex.def)             Requested size: 361.50931pt x 157.29666pt.
- [6 <./images/timeseries/SIC/raw_monthly_1_raw_nsidc.pdf> <./images/timeseries/
+ [7 <./images/timeseries/SIC/raw_monthly_1_raw_nsidc.pdf> <./images/timeseries/
 SIC/raw_monthly_1_detrended_nsidc.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/raw_monthly_1_detren
 ded_nsidc.pdf): PDF inclusion: multiple pdfs with page group included in a sing
 le page
 >]
-<images/timeseries/SIC/raw_seasonal_1_raw_nsidc.pdf, id=281, 354.29689pt x 157.
-29706pt>
+<images/timeseries/SIC/raw_seasonal_1_raw_nsidc.pdf, id=423, 351.6858pt x 157.2
+9706pt>
 File: images/timeseries/SIC/raw_seasonal_1_raw_nsidc.pdf Graphic file (type pdf
 )
 <use images/timeseries/SIC/raw_seasonal_1_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC/raw_seasonal_1_raw_nsidc.pdf  us
 ed on input line 14.
-(pdftex.def)             Requested size: 354.29602pt x 157.29666pt.
-<images/timeseries/SIC/raw_seasonal_1_detrended_nsidc.pdf, id=282, 357.7553pt x
- 157.29706pt>
+(pdftex.def)             Requested size: 351.68494pt x 157.29666pt.
+<images/timeseries/SIC/raw_seasonal_1_detrended_nsidc.pdf, id=424, 351.88036pt 
+x 157.29706pt>
 File: images/timeseries/SIC/raw_seasonal_1_detrended_nsidc.pdf Graphic file (ty
 pe pdf)
 <use images/timeseries/SIC/raw_seasonal_1_detrended_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC/raw_seasonal_1_detrended_nsidc.p
 df  used on input line 14.
-(pdftex.def)             Requested size: 357.75441pt x 157.29666pt.
- [7 <./images/timeseries/SIC/anomalous_monthly_1_raw_nsidc.pdf> <./images/times
+(pdftex.def)             Requested size: 351.87949pt x 157.29666pt.
+ [8 <./images/timeseries/SIC/anomalous_monthly_1_raw_nsidc.pdf> <./images/times
 eries/SIC/anomalous_monthly_1_detrended_nsidc.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/anomalous_monthly_1_
 detrended_nsidc.pdf): PDF inclusion: multiple pdfs with page group included in 
 a single page
 >]
-<images/timeseries/SIC/anomalous_seasonal_1_raw_nsidc.pdf, id=303, 351.88036pt 
+<images/timeseries/SIC/anomalous_seasonal_1_raw_nsidc.pdf, id=450, 351.88036pt 
 x 157.29706pt>
 File: images/timeseries/SIC/anomalous_seasonal_1_raw_nsidc.pdf Graphic file (ty
 pe pdf)
@@ -546,7 +558,7 @@ pe pdf)
 Package pdftex.def Info: images/timeseries/SIC/anomalous_seasonal_1_raw_nsidc.p
 df  used on input line 14.
 (pdftex.def)             Requested size: 351.87949pt x 157.29666pt.
-<images/timeseries/SIC/anomalous_seasonal_1_detrended_nsidc.pdf, id=304, 361.19
+<images/timeseries/SIC/anomalous_seasonal_1_detrended_nsidc.pdf, id=451, 361.19
 687pt x 157.29706pt>
 File: images/timeseries/SIC/anomalous_seasonal_1_detrended_nsidc.pdf Graphic fi
 le (type pdf)
@@ -554,59 +566,59 @@ le (type pdf)
 Package pdftex.def Info: images/timeseries/SIC/anomalous_seasonal_1_detrended_n
 sidc.pdf  used on input line 14.
 (pdftex.def)             Requested size: 361.19597pt x 157.29666pt.
- [8 <./images/timeseries/SIC/raw_seasonal_1_raw_nsidc.pdf> <./images/timeseries
+ [9 <./images/timeseries/SIC/raw_seasonal_1_raw_nsidc.pdf> <./images/timeseries
 /SIC/raw_seasonal_1_detrended_nsidc.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/raw_seasonal_1_detre
 nded_nsidc.pdf): PDF inclusion: multiple pdfs with page group included in a sin
 gle page
 >]
-<images/timeseries/SIC/raw_annual_1_raw_nsidc.pdf, id=321, 341.281pt x 157.2970
-6pt>
+<images/timeseries/SIC/raw_annual_1_raw_nsidc.pdf, id=480, 350.41978pt x 157.29
+706pt>
 File: images/timeseries/SIC/raw_annual_1_raw_nsidc.pdf Graphic file (type pdf)
 <use images/timeseries/SIC/raw_annual_1_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC/raw_annual_1_raw_nsidc.pdf  used
  on input line 14.
-(pdftex.def)             Requested size: 341.28017pt x 157.29666pt.
-<images/timeseries/SIC/raw_annual_1_detrended_nsidc.pdf, id=322, 344.73943pt x 
-157.29706pt>
+(pdftex.def)             Requested size: 350.41893pt x 157.29666pt.
+<images/timeseries/SIC/raw_annual_1_detrended_nsidc.pdf, id=481, 353.8782pt x 1
+57.29706pt>
 File: images/timeseries/SIC/raw_annual_1_detrended_nsidc.pdf Graphic file (type
  pdf)
 <use images/timeseries/SIC/raw_annual_1_detrended_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC/raw_annual_1_detrended_nsidc.pdf
   used on input line 14.
-(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
- [9 <./images/timeseries/SIC/anomalous_seasonal_1_raw_nsidc.pdf> <./images/time
-series/SIC/anomalous_seasonal_1_detrended_nsidc.pdf
+(pdftex.def)             Requested size: 353.87732pt x 157.29666pt.
+ [10 <./images/timeseries/SIC/anomalous_seasonal_1_raw_nsidc.pdf> <./images/tim
+eseries/SIC/anomalous_seasonal_1_detrended_nsidc.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/anomalous_seasonal_1
 _detrended_nsidc.pdf): PDF inclusion: multiple pdfs with page group included in
  a single page
 >]
-<images/timeseries/SIC/anomalous_annual_1_raw_nsidc.pdf, id=342, 344.73943pt x 
-157.29706pt>
+<images/timeseries/SIC/anomalous_annual_1_raw_nsidc.pdf, id=507, 353.8782pt x 1
+57.29706pt>
 File: images/timeseries/SIC/anomalous_annual_1_raw_nsidc.pdf Graphic file (type
  pdf)
 <use images/timeseries/SIC/anomalous_annual_1_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC/anomalous_annual_1_raw_nsidc.pdf
   used on input line 14.
-(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
-<images/timeseries/SIC/anomalous_annual_1_detrended_nsidc.pdf, id=343, 356.6144
-4pt x 157.29706pt>
+(pdftex.def)             Requested size: 353.87732pt x 157.29666pt.
+<images/timeseries/SIC/anomalous_annual_1_detrended_nsidc.pdf, id=508, 365.7532
+3pt x 157.29706pt>
 File: images/timeseries/SIC/anomalous_annual_1_detrended_nsidc.pdf Graphic file
  (type pdf)
 <use images/timeseries/SIC/anomalous_annual_1_detrended_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC/anomalous_annual_1_detrended_nsi
 dc.pdf  used on input line 14.
-(pdftex.def)             Requested size: 356.61356pt x 157.29666pt.
- [10 <./images/timeseries/SIC/raw_annual_1_raw_nsidc.pdf> <./images/timeseries/
+(pdftex.def)             Requested size: 365.75233pt x 157.29666pt.
+ [11 <./images/timeseries/SIC/raw_annual_1_raw_nsidc.pdf> <./images/timeseries/
 SIC/raw_annual_1_detrended_nsidc.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/raw_annual_1_detrend
 ed_nsidc.pdf): PDF inclusion: multiple pdfs with page group included in a singl
 e page
 >]
-<images/timeseries/SIC/raw_monthly_1_raw_ecmwf.pdf, id=360, 405.916pt x 152.971
+<images/timeseries/SIC/raw_monthly_1_raw_ecmwf.pdf, id=540, 405.916pt x 152.971
 02pt>
 File: images/timeseries/SIC/raw_monthly_1_raw_ecmwf.pdf Graphic file (type pdf)
 
@@ -619,7 +631,7 @@ Overfull \hbox (15.915pt too wide) in paragraph at lines 28--28
 [][] 
  []
 
-<images/timeseries/SIC/raw_monthly_1_detrended_ecmwf.pdf, id=361, 405.916pt x 1
+<images/timeseries/SIC/raw_monthly_1_detrended_ecmwf.pdf, id=541, 405.916pt x 1
 52.97102pt>
 File: images/timeseries/SIC/raw_monthly_1_detrended_ecmwf.pdf Graphic file (typ
 e pdf)
@@ -632,14 +644,14 @@ Overfull \hbox (15.915pt too wide) in paragraph at lines 28--28
 [][] 
  []
 
-[11 <./images/timeseries/SIC/anomalous_annual_1_raw_nsidc.pdf> <./images/timese
+[12 <./images/timeseries/SIC/anomalous_annual_1_raw_nsidc.pdf> <./images/timese
 ries/SIC/anomalous_annual_1_detrended_nsidc.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/anomalous_annual_1_d
 etrended_nsidc.pdf): PDF inclusion: multiple pdfs with page group included in a
  single page
 >]
-<images/timeseries/SIC/anomalous_monthly_1_raw_ecmwf.pdf, id=381, 405.916pt x 1
+<images/timeseries/SIC/anomalous_monthly_1_raw_ecmwf.pdf, id=573, 405.916pt x 1
 52.97102pt>
 File: images/timeseries/SIC/anomalous_monthly_1_raw_ecmwf.pdf Graphic file (typ
 e pdf)
@@ -652,7 +664,7 @@ Overfull \hbox (15.915pt too wide) in paragraph at lines 28--28
 [][] 
  []
 
-<images/timeseries/SIC/anomalous_monthly_1_detrended_ecmwf.pdf, id=382, 403.841
+<images/timeseries/SIC/anomalous_monthly_1_detrended_ecmwf.pdf, id=574, 403.841
 26pt x 152.97102pt>
 File: images/timeseries/SIC/anomalous_monthly_1_detrended_ecmwf.pdf Graphic fil
 e (type pdf)
@@ -665,14 +677,14 @@ Overfull \hbox (13.84026pt too wide) in paragraph at lines 28--28
 [][] 
  []
 
-[12 <./images/timeseries/SIC/raw_monthly_1_raw_ecmwf.pdf> <./images/timeseries/
+[13 <./images/timeseries/SIC/raw_monthly_1_raw_ecmwf.pdf> <./images/timeseries/
 SIC/raw_monthly_1_detrended_ecmwf.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/raw_monthly_1_detren
 ded_ecmwf.pdf): PDF inclusion: multiple pdfs with page group included in a sing
 le page
 >]
-<images/timeseries/SIC/raw_seasonal_1_raw_ecmwf.pdf, id=407, 405.916pt x 152.97
+<images/timeseries/SIC/raw_seasonal_1_raw_ecmwf.pdf, id=595, 405.916pt x 152.97
 102pt>
 File: images/timeseries/SIC/raw_seasonal_1_raw_ecmwf.pdf Graphic file (type pdf
 )
@@ -685,7 +697,7 @@ Overfull \hbox (15.915pt too wide) in paragraph at lines 28--28
 [][] 
  []
 
-<images/timeseries/SIC/raw_seasonal_1_detrended_ecmwf.pdf, id=408, 405.916pt x 
+<images/timeseries/SIC/raw_seasonal_1_detrended_ecmwf.pdf, id=596, 405.916pt x 
 152.97102pt>
 File: images/timeseries/SIC/raw_seasonal_1_detrended_ecmwf.pdf Graphic file (ty
 pe pdf)
@@ -698,14 +710,14 @@ Overfull \hbox (15.915pt too wide) in paragraph at lines 28--28
 [][] 
  []
 
-[13 <./images/timeseries/SIC/anomalous_monthly_1_raw_ecmwf.pdf> <./images/times
+[14 <./images/timeseries/SIC/anomalous_monthly_1_raw_ecmwf.pdf> <./images/times
 eries/SIC/anomalous_monthly_1_detrended_ecmwf.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/anomalous_monthly_1_
 detrended_ecmwf.pdf): PDF inclusion: multiple pdfs with page group included in 
 a single page
 >]
-<images/timeseries/SIC/anomalous_seasonal_1_raw_ecmwf.pdf, id=435, 405.916pt x 
+<images/timeseries/SIC/anomalous_seasonal_1_raw_ecmwf.pdf, id=619, 405.916pt x 
 152.97102pt>
 File: images/timeseries/SIC/anomalous_seasonal_1_raw_ecmwf.pdf Graphic file (ty
 pe pdf)
@@ -718,7 +730,7 @@ Overfull \hbox (15.915pt too wide) in paragraph at lines 28--28
 [][] 
  []
 
-<images/timeseries/SIC/anomalous_seasonal_1_detrended_ecmwf.pdf, id=436, 404.31
+<images/timeseries/SIC/anomalous_seasonal_1_detrended_ecmwf.pdf, id=620, 404.31
 128pt x 152.97102pt>
 File: images/timeseries/SIC/anomalous_seasonal_1_detrended_ecmwf.pdf Graphic fi
 le (type pdf)
@@ -731,26 +743,26 @@ Overfull \hbox (14.31029pt too wide) in paragraph at lines 28--28
 [][] 
  []
 
-[14 <./images/timeseries/SIC/raw_seasonal_1_raw_ecmwf.pdf> <./images/timeseries
+[15 <./images/timeseries/SIC/raw_seasonal_1_raw_ecmwf.pdf> <./images/timeseries
 /SIC/raw_seasonal_1_detrended_ecmwf.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/raw_seasonal_1_detre
 nded_ecmwf.pdf): PDF inclusion: multiple pdfs with page group included in a sin
 gle page
 >]
-<images/timeseries/SIC/raw_annual_1_raw_ecmwf.pdf, id=459, 405.89282pt x 152.97
+<images/timeseries/SIC/raw_annual_1_raw_ecmwf.pdf, id=637, 405.89417pt x 152.97
 102pt>
 File: images/timeseries/SIC/raw_annual_1_raw_ecmwf.pdf Graphic file (type pdf)
 <use images/timeseries/SIC/raw_annual_1_raw_ecmwf.pdf>
 Package pdftex.def Info: images/timeseries/SIC/raw_annual_1_raw_ecmwf.pdf  used
  on input line 28.
-(pdftex.def)             Requested size: 405.89183pt x 152.97064pt.
+(pdftex.def)             Requested size: 405.89316pt x 152.97064pt.
 
-Overfull \hbox (15.89183pt too wide) in paragraph at lines 28--28
+Overfull \hbox (15.89316pt too wide) in paragraph at lines 28--28
 [][] 
  []
 
-<images/timeseries/SIC/raw_annual_1_detrended_ecmwf.pdf, id=460, 405.89763pt x 
+<images/timeseries/SIC/raw_annual_1_detrended_ecmwf.pdf, id=638, 405.89763pt x 
 152.97102pt>
 File: images/timeseries/SIC/raw_annual_1_detrended_ecmwf.pdf Graphic file (type
  pdf)
@@ -763,27 +775,27 @@ Overfull \hbox (15.89664pt too wide) in paragraph at lines 28--28
 [][] 
  []
 
-[15 <./images/timeseries/SIC/anomalous_seasonal_1_raw_ecmwf.pdf> <./images/time
+[16 <./images/timeseries/SIC/anomalous_seasonal_1_raw_ecmwf.pdf> <./images/time
 series/SIC/anomalous_seasonal_1_detrended_ecmwf.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/anomalous_seasonal_1
 _detrended_ecmwf.pdf): PDF inclusion: multiple pdfs with page group included in
  a single page
 >]
-<images/timeseries/SIC/anomalous_annual_1_raw_ecmwf.pdf, id=486, 405.89763pt x 
+<images/timeseries/SIC/anomalous_annual_1_raw_ecmwf.pdf, id=661, 405.89291pt x 
 152.97102pt>
 File: images/timeseries/SIC/anomalous_annual_1_raw_ecmwf.pdf Graphic file (type
  pdf)
 <use images/timeseries/SIC/anomalous_annual_1_raw_ecmwf.pdf>
 Package pdftex.def Info: images/timeseries/SIC/anomalous_annual_1_raw_ecmwf.pdf
   used on input line 28.
-(pdftex.def)             Requested size: 405.89664pt x 152.97064pt.
+(pdftex.def)             Requested size: 405.89192pt x 152.97064pt.
 
-Overfull \hbox (15.89664pt too wide) in paragraph at lines 28--28
+Overfull \hbox (15.89192pt too wide) in paragraph at lines 28--28
 [][] 
  []
 
-<images/timeseries/SIC/anomalous_annual_1_detrended_ecmwf.pdf, id=487, 405.7391
+<images/timeseries/SIC/anomalous_annual_1_detrended_ecmwf.pdf, id=662, 405.7391
 4pt x 152.97102pt>
 File: images/timeseries/SIC/anomalous_annual_1_detrended_ecmwf.pdf Graphic file
  (type pdf)
@@ -796,326 +808,316 @@ Overfull \hbox (15.73813pt too wide) in paragraph at lines 28--28
 [][] 
  []
 
-[16 <./images/timeseries/SIC/raw_annual_1_raw_ecmwf.pdf> <./images/timeseries/S
+[17 <./images/timeseries/SIC/raw_annual_1_raw_ecmwf.pdf> <./images/timeseries/S
 IC/raw_annual_1_detrended_ecmwf.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/raw_annual_1_detrend
 ed_ecmwf.pdf): PDF inclusion: multiple pdfs with page group included in a singl
 e page
 >]
-<images/timeseries/SIC/SIC_ERA5_raw_monthly_1_raw.pdf, id=510, 405.916pt x 153.
-6331pt>
+<images/timeseries/SIC/SIC_ERA5_raw_monthly_1_raw.pdf, id=682, 401.82304pt x 18
+2.39665pt>
 File: images/timeseries/SIC/SIC_ERA5_raw_monthly_1_raw.pdf Graphic file (type p
 df)
 <use images/timeseries/SIC/SIC_ERA5_raw_monthly_1_raw.pdf>
 Package pdftex.def Info: images/timeseries/SIC/SIC_ERA5_raw_monthly_1_raw.pdf  
 used on input line 44.
-(pdftex.def)             Requested size: 405.915pt x 153.6327pt.
+(pdftex.def)             Requested size: 401.82205pt x 182.3962pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 44--44
+Overfull \hbox (11.82205pt too wide) in paragraph at lines 44--44
 [][] 
  []
 
-<images/timeseries/SIC/SIC_ERA5_raw_monthly_1_detrended.pdf, id=511, 405.916pt 
-x 153.6331pt>
+<images/timeseries/SIC/SIC_ERA5_raw_monthly_1_detrended.pdf, id=683, 411.35095p
+t x 182.39665pt>
 File: images/timeseries/SIC/SIC_ERA5_raw_monthly_1_detrended.pdf Graphic file (
 type pdf)
 <use images/timeseries/SIC/SIC_ERA5_raw_monthly_1_detrended.pdf>
 Package pdftex.def Info: images/timeseries/SIC/SIC_ERA5_raw_monthly_1_detrended
 .pdf  used on input line 44.
-(pdftex.def)             Requested size: 405.915pt x 153.6327pt.
+(pdftex.def)             Requested size: 411.34995pt x 182.3962pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 44--44
+Overfull \hbox (21.34995pt too wide) in paragraph at lines 44--44
 [][] 
  []
 
-[17 <./images/timeseries/SIC/anomalous_annual_1_raw_ecmwf.pdf> <./images/timese
+[18 <./images/timeseries/SIC/anomalous_annual_1_raw_ecmwf.pdf> <./images/timese
 ries/SIC/anomalous_annual_1_detrended_ecmwf.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/anomalous_annual_1_d
 etrended_ecmwf.pdf): PDF inclusion: multiple pdfs with page group included in a
  single page
 >]
-<images/timeseries/SIC/SIC_ERA5_anomalous_monthly_1_raw.pdf, id=537, 405.916pt 
-x 153.6331pt>
+<images/timeseries/SIC/SIC_ERA5_anomalous_monthly_1_raw.pdf, id=706, 411.35095p
+t x 182.39665pt>
 File: images/timeseries/SIC/SIC_ERA5_anomalous_monthly_1_raw.pdf Graphic file (
 type pdf)
 <use images/timeseries/SIC/SIC_ERA5_anomalous_monthly_1_raw.pdf>
 Package pdftex.def Info: images/timeseries/SIC/SIC_ERA5_anomalous_monthly_1_raw
 .pdf  used on input line 44.
-(pdftex.def)             Requested size: 405.915pt x 153.6327pt.
+(pdftex.def)             Requested size: 411.34995pt x 182.3962pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 44--44
+Overfull \hbox (21.34995pt too wide) in paragraph at lines 44--44
 [][] 
  []
 
-<images/timeseries/SIC/SIC_ERA5_anomalous_monthly_1_detrended.pdf, id=538, 405.
-916pt x 153.6331pt>
+<images/timeseries/SIC/SIC_ERA5_anomalous_monthly_1_detrended.pdf, id=707, 411.
+35095pt x 182.39665pt>
 File: images/timeseries/SIC/SIC_ERA5_anomalous_monthly_1_detrended.pdf Graphic 
 file (type pdf)
 <use images/timeseries/SIC/SIC_ERA5_anomalous_monthly_1_detrended.pdf>
 Package pdftex.def Info: images/timeseries/SIC/SIC_ERA5_anomalous_monthly_1_det
 rended.pdf  used on input line 44.
-(pdftex.def)             Requested size: 405.915pt x 153.6327pt.
+(pdftex.def)             Requested size: 411.34995pt x 182.3962pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 44--44
+Overfull \hbox (21.34995pt too wide) in paragraph at lines 44--44
 [][] 
  []
 
-[18 <./images/timeseries/SIC/SIC_ERA5_raw_monthly_1_raw.pdf> <./images/timeseri
+[19 <./images/timeseries/SIC/SIC_ERA5_raw_monthly_1_raw.pdf> <./images/timeseri
 es/SIC/SIC_ERA5_raw_monthly_1_detrended.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/SIC_ERA5_raw_monthly
 _1_detrended.pdf): PDF inclusion: multiple pdfs with page group included in a s
 ingle page
 >]
-<images/timeseries/SIC/SIC_ERA5_raw_seasonal_1_raw.pdf, id=561, 405.916pt x 153
-.6331pt>
+<images/timeseries/SIC/SIC_ERA5_raw_seasonal_1_raw.pdf, id=740, 401.82304pt x 1
+82.39665pt>
 File: images/timeseries/SIC/SIC_ERA5_raw_seasonal_1_raw.pdf Graphic file (type 
 pdf)
 <use images/timeseries/SIC/SIC_ERA5_raw_seasonal_1_raw.pdf>
 Package pdftex.def Info: images/timeseries/SIC/SIC_ERA5_raw_seasonal_1_raw.pdf 
  used on input line 44.
-(pdftex.def)             Requested size: 405.915pt x 153.6327pt.
+(pdftex.def)             Requested size: 401.82205pt x 182.3962pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 44--44
+Overfull \hbox (11.82205pt too wide) in paragraph at lines 44--44
 [][] 
  []
 
-<images/timeseries/SIC/SIC_ERA5_raw_seasonal_1_detrended.pdf, id=562, 405.916pt
- x 153.6331pt>
+<images/timeseries/SIC/SIC_ERA5_raw_seasonal_1_detrended.pdf, id=741, 411.35095
+pt x 182.39665pt>
 File: images/timeseries/SIC/SIC_ERA5_raw_seasonal_1_detrended.pdf Graphic file 
 (type pdf)
 <use images/timeseries/SIC/SIC_ERA5_raw_seasonal_1_detrended.pdf>
 Package pdftex.def Info: images/timeseries/SIC/SIC_ERA5_raw_seasonal_1_detrende
 d.pdf  used on input line 44.
-(pdftex.def)             Requested size: 405.915pt x 153.6327pt.
+(pdftex.def)             Requested size: 411.34995pt x 182.3962pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 44--44
+Overfull \hbox (21.34995pt too wide) in paragraph at lines 44--44
 [][] 
  []
 
-[19 <./images/timeseries/SIC/SIC_ERA5_anomalous_monthly_1_raw.pdf> <./images/ti
+[20 <./images/timeseries/SIC/SIC_ERA5_anomalous_monthly_1_raw.pdf> <./images/ti
 meseries/SIC/SIC_ERA5_anomalous_monthly_1_detrended.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/SIC_ERA5_anomalous_m
 onthly_1_detrended.pdf): PDF inclusion: multiple pdfs with page group included 
 in a single page
 >]
-<images/timeseries/SIC/SIC_ERA5_anomalous_seasonal_1_raw.pdf, id=589, 405.916pt
- x 153.6331pt>
+<images/timeseries/SIC/SIC_ERA5_anomalous_seasonal_1_raw.pdf, id=773, 411.35095
+pt x 182.39665pt>
 File: images/timeseries/SIC/SIC_ERA5_anomalous_seasonal_1_raw.pdf Graphic file 
 (type pdf)
 <use images/timeseries/SIC/SIC_ERA5_anomalous_seasonal_1_raw.pdf>
 Package pdftex.def Info: images/timeseries/SIC/SIC_ERA5_anomalous_seasonal_1_ra
 w.pdf  used on input line 44.
-(pdftex.def)             Requested size: 405.915pt x 153.6327pt.
+(pdftex.def)             Requested size: 411.34995pt x 182.3962pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 44--44
+Overfull \hbox (21.34995pt too wide) in paragraph at lines 44--44
 [][] 
  []
 
-<images/timeseries/SIC/SIC_ERA5_anomalous_seasonal_1_detrended.pdf, id=590, 405
-.916pt x 153.6331pt>
+<images/timeseries/SIC/SIC_ERA5_anomalous_seasonal_1_detrended.pdf, id=774, 411
+.35095pt x 182.39665pt>
 File: images/timeseries/SIC/SIC_ERA5_anomalous_seasonal_1_detrended.pdf Graphic
  file (type pdf)
 <use images/timeseries/SIC/SIC_ERA5_anomalous_seasonal_1_detrended.pdf>
 Package pdftex.def Info: images/timeseries/SIC/SIC_ERA5_anomalous_seasonal_1_de
 trended.pdf  used on input line 44.
-(pdftex.def)             Requested size: 405.915pt x 153.6327pt.
+(pdftex.def)             Requested size: 411.34995pt x 182.3962pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 44--44
+Overfull \hbox (21.34995pt too wide) in paragraph at lines 44--44
 [][] 
  []
 
-[20 <./images/timeseries/SIC/SIC_ERA5_raw_seasonal_1_raw.pdf> <./images/timeser
+[21 <./images/timeseries/SIC/SIC_ERA5_raw_seasonal_1_raw.pdf> <./images/timeser
 ies/SIC/SIC_ERA5_raw_seasonal_1_detrended.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/SIC_ERA5_raw_seasona
 l_1_detrended.pdf): PDF inclusion: multiple pdfs with page group included in a 
 single page
 >]
-<images/timeseries/SIC/SIC_ERA5_raw_annual_1_raw.pdf, id=613, 405.916pt x 153.6
-331pt>
+<images/timeseries/SIC/SIC_ERA5_raw_annual_1_raw.pdf, id=806, 413.5729pt x 182.
+39665pt>
 File: images/timeseries/SIC/SIC_ERA5_raw_annual_1_raw.pdf Graphic file (type pd
 f)
 <use images/timeseries/SIC/SIC_ERA5_raw_annual_1_raw.pdf>
 Package pdftex.def Info: images/timeseries/SIC/SIC_ERA5_raw_annual_1_raw.pdf  u
 sed on input line 44.
-(pdftex.def)             Requested size: 405.915pt x 153.6327pt.
+(pdftex.def)             Requested size: 413.57188pt x 182.3962pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 44--44
+Overfull \hbox (23.57188pt too wide) in paragraph at lines 44--44
 [][] 
  []
 
-<images/timeseries/SIC/SIC_ERA5_raw_annual_1_detrended.pdf, id=614, 405.916pt x
- 153.6331pt>
+<images/timeseries/SIC/SIC_ERA5_raw_annual_1_detrended.pdf, id=807, 411.35095pt
+ x 182.39665pt>
 File: images/timeseries/SIC/SIC_ERA5_raw_annual_1_detrended.pdf Graphic file (t
 ype pdf)
 <use images/timeseries/SIC/SIC_ERA5_raw_annual_1_detrended.pdf>
 Package pdftex.def Info: images/timeseries/SIC/SIC_ERA5_raw_annual_1_detrended.
 pdf  used on input line 44.
-(pdftex.def)             Requested size: 405.915pt x 153.6327pt.
+(pdftex.def)             Requested size: 411.34995pt x 182.3962pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 44--44
+Overfull \hbox (21.34995pt too wide) in paragraph at lines 44--44
 [][] 
  []
 
-[21 <./images/timeseries/SIC/SIC_ERA5_anomalous_seasonal_1_raw.pdf> <./images/t
+[22 <./images/timeseries/SIC/SIC_ERA5_anomalous_seasonal_1_raw.pdf> <./images/t
 imeseries/SIC/SIC_ERA5_anomalous_seasonal_1_detrended.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/SIC_ERA5_anomalous_s
 easonal_1_detrended.pdf): PDF inclusion: multiple pdfs with page group included
  in a single page
 >]
-<images/timeseries/SIC/SIC_ERA5_anomalous_annual_1_raw.pdf, id=640, 405.916pt x
- 153.6331pt>
+<images/timeseries/SIC/SIC_ERA5_anomalous_annual_1_raw.pdf, id=839, 411.35095pt
+ x 182.39665pt>
 File: images/timeseries/SIC/SIC_ERA5_anomalous_annual_1_raw.pdf Graphic file (t
 ype pdf)
 <use images/timeseries/SIC/SIC_ERA5_anomalous_annual_1_raw.pdf>
 Package pdftex.def Info: images/timeseries/SIC/SIC_ERA5_anomalous_annual_1_raw.
 pdf  used on input line 44.
-(pdftex.def)             Requested size: 405.915pt x 153.6327pt.
+(pdftex.def)             Requested size: 411.34995pt x 182.3962pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 44--44
+Overfull \hbox (21.34995pt too wide) in paragraph at lines 44--44
 [][] 
  []
 
-<images/timeseries/SIC/SIC_ERA5_anomalous_annual_1_detrended.pdf, id=641, 405.9
-16pt x 153.6331pt>
+<images/timeseries/SIC/SIC_ERA5_anomalous_annual_1_detrended.pdf, id=840, 411.3
+5095pt x 182.39665pt>
 File: images/timeseries/SIC/SIC_ERA5_anomalous_annual_1_detrended.pdf Graphic f
 ile (type pdf)
 <use images/timeseries/SIC/SIC_ERA5_anomalous_annual_1_detrended.pdf>
 Package pdftex.def Info: images/timeseries/SIC/SIC_ERA5_anomalous_annual_1_detr
 ended.pdf  used on input line 44.
-(pdftex.def)             Requested size: 405.915pt x 153.6327pt.
+(pdftex.def)             Requested size: 411.34995pt x 182.3962pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 44--44
+Overfull \hbox (21.34995pt too wide) in paragraph at lines 44--44
 [][] 
  []
 
-[22 <./images/timeseries/SIC/SIC_ERA5_raw_annual_1_raw.pdf> <./images/timeserie
+[23 <./images/timeseries/SIC/SIC_ERA5_raw_annual_1_raw.pdf> <./images/timeserie
 s/SIC/SIC_ERA5_raw_annual_1_detrended.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/SIC_ERA5_raw_annual_
 1_detrended.pdf): PDF inclusion: multiple pdfs with page group included in a si
 ngle page
 >]) (sections/Index_timeseries.tex
-<images/timeseries/INDICIES/SAM_SAM_raw_monthly_raw.pdf, id=664, 405.916pt x 15
-2.97102pt>
+<images/timeseries/INDICIES/SAM_SAM_raw_monthly_raw.pdf, id=872, 344.73943pt x 
+157.29706pt>
 File: images/timeseries/INDICIES/SAM_SAM_raw_monthly_raw.pdf Graphic file (type
  pdf)
 <use images/timeseries/INDICIES/SAM_SAM_raw_monthly_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/SAM_SAM_raw_monthly_raw.pdf
   used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/IPO_IPO_raw_monthly_raw.pdf, id=665, 405.916pt x 15
-2.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/IPO_IPO_raw_monthly_raw.pdf, id=873, 335.40605pt x 
+157.29706pt>
 File: images/timeseries/INDICIES/IPO_IPO_raw_monthly_raw.pdf Graphic file (type
  pdf)
 <use images/timeseries/INDICIES/IPO_IPO_raw_monthly_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/IPO_IPO_raw_monthly_raw.pdf
   used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/ENSO_ENSO_raw_monthly_raw.pdf, id=666, 405.916pt x 
-152.97102pt>
+(pdftex.def)             Requested size: 335.40523pt x 157.29666pt.
+<images/timeseries/INDICIES/ENSO_ENSO_raw_monthly_raw.pdf, id=874, 344.73943pt 
+x 157.29706pt>
 File: images/timeseries/INDICIES/ENSO_ENSO_raw_monthly_raw.pdf Graphic file (ty
 pe pdf)
 <use images/timeseries/INDICIES/ENSO_ENSO_raw_monthly_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/ENSO_ENSO_raw_monthly_raw.p
 df  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/DMI_DMI_raw_monthly_raw.pdf, id=667, 405.916pt x 15
-2.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/DMI_DMI_raw_monthly_raw.pdf, id=875, 335.40605pt x 
+157.29706pt>
 File: images/timeseries/INDICIES/DMI_DMI_raw_monthly_raw.pdf Graphic file (type
  pdf)
 <use images/timeseries/INDICIES/DMI_DMI_raw_monthly_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/DMI_DMI_raw_monthly_raw.pdf
   used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
+(pdftex.def)             Requested size: 335.40523pt x 157.29666pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [][]
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
-
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
-[] 
- []
-
-<images/timeseries/INDICIES/SAM_SAM_raw_monthly_detrended.pdf, id=668, 405.916p
-t x 152.97102pt>
+<images/timeseries/INDICIES/SAM_SAM_raw_monthly_detrended.pdf, id=876, 344.7394
+3pt x 157.29706pt>
 File: images/timeseries/INDICIES/SAM_SAM_raw_monthly_detrended.pdf Graphic file
  (type pdf)
 <use images/timeseries/INDICIES/SAM_SAM_raw_monthly_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/SAM_SAM_raw_monthly_detrend
 ed.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/IPO_IPO_raw_monthly_detrended.pdf, id=669, 405.916p
-t x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/IPO_IPO_raw_monthly_detrended.pdf, id=877, 344.7394
+3pt x 157.29706pt>
 File: images/timeseries/INDICIES/IPO_IPO_raw_monthly_detrended.pdf Graphic file
  (type pdf)
 <use images/timeseries/INDICIES/IPO_IPO_raw_monthly_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/IPO_IPO_raw_monthly_detrend
 ed.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/ENSO_ENSO_raw_monthly_detrended.pdf, id=670, 405.91
-6pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/ENSO_ENSO_raw_monthly_detrended.pdf, id=878, 344.73
+943pt x 157.29706pt>
 File: images/timeseries/INDICIES/ENSO_ENSO_raw_monthly_detrended.pdf Graphic fi
 le (type pdf)
 <use images/timeseries/INDICIES/ENSO_ENSO_raw_monthly_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/ENSO_ENSO_raw_monthly_detre
 nded.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/DMI_DMI_raw_monthly_detrended.pdf, id=671, 405.916p
-t x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/DMI_DMI_raw_monthly_detrended.pdf, id=879, 344.7394
+3pt x 157.29706pt>
 File: images/timeseries/INDICIES/DMI_DMI_raw_monthly_detrended.pdf Graphic file
  (type pdf)
 <use images/timeseries/INDICIES/DMI_DMI_raw_monthly_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/DMI_DMI_raw_monthly_detrend
 ed.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [][]
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
-
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
-[] 
- []
-
-[23 <./images/timeseries/SIC/SIC_ERA5_anomalous_annual_1_raw.pdf> <./images/tim
+[24 <./images/timeseries/SIC/SIC_ERA5_anomalous_annual_1_raw.pdf> <./images/tim
 eseries/SIC/SIC_ERA5_anomalous_annual_1_detrended.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC/SIC_ERA5_anomalous_a
 nnual_1_detrended.pdf): PDF inclusion: multiple pdfs with page group included i
 n a single page
->] [24]
-Overfull \vbox (151.5159pt too high) has occurred while \output is active []
+>] [25]
+Overfull \vbox (168.81998pt too high) has occurred while \output is active []
 
 
-[25 <./images/timeseries/INDICIES/SAM_SAM_raw_monthly_raw.pdf> <./images/timese
+[26 <./images/timeseries/INDICIES/SAM_SAM_raw_monthly_raw.pdf> <./images/timese
 ries/INDICIES/IPO_IPO_raw_monthly_raw.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/IPO_IPO_raw_mon
@@ -1132,63 +1134,58 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/DMI_DMI_raw_mon
 thly_raw.pdf): PDF inclusion: multiple pdfs with page group included in a singl
 e page
 >]
-<images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_raw.pdf, id=729, 405.916p
-t x 152.97102pt>
+<images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_raw.pdf, id=943, 344.7394
+3pt x 157.29706pt>
 File: images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_raw.pdf Graphic file
  (type pdf)
 <use images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_r
 aw.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/IPO_IPO_anomalous_monthly_raw.pdf, id=730, 405.916p
-t x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/IPO_IPO_anomalous_monthly_raw.pdf, id=944, 344.7394
+3pt x 157.29706pt>
 File: images/timeseries/INDICIES/IPO_IPO_anomalous_monthly_raw.pdf Graphic file
  (type pdf)
 <use images/timeseries/INDICIES/IPO_IPO_anomalous_monthly_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/IPO_IPO_anomalous_monthly_r
 aw.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/ENSO_ENSO_anomalous_monthly_raw.pdf, id=731, 405.91
-6pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/ENSO_ENSO_anomalous_monthly_raw.pdf, id=945, 344.73
+943pt x 157.29706pt>
 File: images/timeseries/INDICIES/ENSO_ENSO_anomalous_monthly_raw.pdf Graphic fi
 le (type pdf)
 <use images/timeseries/INDICIES/ENSO_ENSO_anomalous_monthly_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/ENSO_ENSO_anomalous_monthly
 _raw.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/DMI_DMI_anomalous_monthly_raw.pdf, id=732, 405.916p
-t x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/DMI_DMI_anomalous_monthly_raw.pdf, id=946, 344.7394
+3pt x 157.29706pt>
 File: images/timeseries/INDICIES/DMI_DMI_anomalous_monthly_raw.pdf Graphic file
  (type pdf)
 <use images/timeseries/INDICIES/DMI_DMI_anomalous_monthly_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/DMI_DMI_anomalous_monthly_r
 aw.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [][]
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
-[] 
- []
+Overfull \vbox (108.18663pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (90.88255pt too high) has occurred while \output is active []
-
-
-[26 <./images/timeseries/INDICIES/SAM_SAM_raw_monthly_detrended.pdf> <./images/
+[27 <./images/timeseries/INDICIES/SAM_SAM_raw_monthly_detrended.pdf> <./images/
 timeseries/INDICIES/IPO_IPO_raw_monthly_detrended.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/IPO_IPO_raw_mon
@@ -1205,63 +1202,58 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/DMI_DMI_raw_mon
 thly_detrended.pdf): PDF inclusion: multiple pdfs with page group included in a
  single page
 >]
-<images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_detrended.pdf, id=766, 40
-5.916pt x 152.97102pt>
+<images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_detrended.pdf, id=980, 34
+4.73943pt x 157.29706pt>
 File: images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_detrended.pdf Graphi
 c file (type pdf)
 <use images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_d
 etrended.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/IPO_IPO_anomalous_monthly_detrended.pdf, id=767, 40
-5.916pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/IPO_IPO_anomalous_monthly_detrended.pdf, id=981, 34
+4.73943pt x 157.29706pt>
 File: images/timeseries/INDICIES/IPO_IPO_anomalous_monthly_detrended.pdf Graphi
 c file (type pdf)
 <use images/timeseries/INDICIES/IPO_IPO_anomalous_monthly_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/IPO_IPO_anomalous_monthly_d
 etrended.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/ENSO_ENSO_anomalous_monthly_detrended.pdf, id=768, 
-405.916pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/ENSO_ENSO_anomalous_monthly_detrended.pdf, id=982, 
+344.73943pt x 157.29706pt>
 File: images/timeseries/INDICIES/ENSO_ENSO_anomalous_monthly_detrended.pdf Grap
 hic file (type pdf)
 <use images/timeseries/INDICIES/ENSO_ENSO_anomalous_monthly_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/ENSO_ENSO_anomalous_monthly
 _detrended.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/DMI_DMI_anomalous_monthly_detrended.pdf, id=769, 40
-5.916pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/DMI_DMI_anomalous_monthly_detrended.pdf, id=983, 34
+4.73943pt x 157.29706pt>
 File: images/timeseries/INDICIES/DMI_DMI_anomalous_monthly_detrended.pdf Graphi
 c file (type pdf)
 <use images/timeseries/INDICIES/DMI_DMI_anomalous_monthly_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/DMI_DMI_anomalous_monthly_d
 etrended.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [][]
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
-[] 
- []
+Overfull \vbox (108.18663pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (90.88255pt too high) has occurred while \output is active []
-
-
-[27 <./images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_raw.pdf> <./images/
+[28 <./images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_raw.pdf> <./images/
 timeseries/INDICIES/IPO_IPO_anomalous_monthly_raw.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/IPO_IPO_anomalo
@@ -1278,63 +1270,58 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/DMI_DMI_anomalo
 us_monthly_raw.pdf): PDF inclusion: multiple pdfs with page group included in a
  single page
 >]
-<images/timeseries/INDICIES/SAM_SAM_raw_seasonal_raw.pdf, id=803, 405.916pt x 1
-52.97102pt>
+<images/timeseries/INDICIES/SAM_SAM_raw_seasonal_raw.pdf, id=1017, 344.73943pt 
+x 157.29706pt>
 File: images/timeseries/INDICIES/SAM_SAM_raw_seasonal_raw.pdf Graphic file (typ
 e pdf)
 <use images/timeseries/INDICIES/SAM_SAM_raw_seasonal_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/SAM_SAM_raw_seasonal_raw.pd
 f  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/IPO_IPO_raw_seasonal_raw.pdf, id=804, 405.916pt x 1
-52.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/IPO_IPO_raw_seasonal_raw.pdf, id=1018, 344.73943pt 
+x 157.29706pt>
 File: images/timeseries/INDICIES/IPO_IPO_raw_seasonal_raw.pdf Graphic file (typ
 e pdf)
 <use images/timeseries/INDICIES/IPO_IPO_raw_seasonal_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/IPO_IPO_raw_seasonal_raw.pd
 f  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/ENSO_ENSO_raw_seasonal_raw.pdf, id=805, 405.916pt x
- 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/ENSO_ENSO_raw_seasonal_raw.pdf, id=1019, 344.73943p
+t x 157.29706pt>
 File: images/timeseries/INDICIES/ENSO_ENSO_raw_seasonal_raw.pdf Graphic file (t
 ype pdf)
 <use images/timeseries/INDICIES/ENSO_ENSO_raw_seasonal_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/ENSO_ENSO_raw_seasonal_raw.
 pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/DMI_DMI_raw_seasonal_raw.pdf, id=806, 405.916pt x 1
-52.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/DMI_DMI_raw_seasonal_raw.pdf, id=1020, 344.73943pt 
+x 157.29706pt>
 File: images/timeseries/INDICIES/DMI_DMI_raw_seasonal_raw.pdf Graphic file (typ
 e pdf)
 <use images/timeseries/INDICIES/DMI_DMI_raw_seasonal_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/DMI_DMI_raw_seasonal_raw.pd
 f  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [][]
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
-[] 
- []
+Overfull \vbox (108.18663pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (90.88255pt too high) has occurred while \output is active []
-
-
-[28 <./images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_detrended.pdf> <./i
+[29 <./images/timeseries/INDICIES/SAM_SAM_anomalous_monthly_detrended.pdf> <./i
 mages/timeseries/INDICIES/IPO_IPO_anomalous_monthly_detrended.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/IPO_IPO_anomalo
@@ -1351,63 +1338,58 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/DMI_DMI_anomalo
 us_monthly_detrended.pdf): PDF inclusion: multiple pdfs with page group include
 d in a single page
 >]
-<images/timeseries/INDICIES/SAM_SAM_raw_seasonal_detrended.pdf, id=840, 405.916
-pt x 152.97102pt>
+<images/timeseries/INDICIES/SAM_SAM_raw_seasonal_detrended.pdf, id=1054, 344.73
+943pt x 157.29706pt>
 File: images/timeseries/INDICIES/SAM_SAM_raw_seasonal_detrended.pdf Graphic fil
 e (type pdf)
 <use images/timeseries/INDICIES/SAM_SAM_raw_seasonal_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/SAM_SAM_raw_seasonal_detren
 ded.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/IPO_IPO_raw_seasonal_detrended.pdf, id=841, 405.916
-pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/IPO_IPO_raw_seasonal_detrended.pdf, id=1055, 344.73
+943pt x 157.29706pt>
 File: images/timeseries/INDICIES/IPO_IPO_raw_seasonal_detrended.pdf Graphic fil
 e (type pdf)
 <use images/timeseries/INDICIES/IPO_IPO_raw_seasonal_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/IPO_IPO_raw_seasonal_detren
 ded.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/ENSO_ENSO_raw_seasonal_detrended.pdf, id=842, 405.9
-16pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/ENSO_ENSO_raw_seasonal_detrended.pdf, id=1056, 344.
+73943pt x 157.29706pt>
 File: images/timeseries/INDICIES/ENSO_ENSO_raw_seasonal_detrended.pdf Graphic f
 ile (type pdf)
 <use images/timeseries/INDICIES/ENSO_ENSO_raw_seasonal_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/ENSO_ENSO_raw_seasonal_detr
 ended.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/DMI_DMI_raw_seasonal_detrended.pdf, id=843, 405.916
-pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/DMI_DMI_raw_seasonal_detrended.pdf, id=1057, 344.73
+943pt x 157.29706pt>
 File: images/timeseries/INDICIES/DMI_DMI_raw_seasonal_detrended.pdf Graphic fil
 e (type pdf)
 <use images/timeseries/INDICIES/DMI_DMI_raw_seasonal_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/DMI_DMI_raw_seasonal_detren
 ded.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [][]
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
-[] 
- []
+Overfull \vbox (108.18663pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (90.88255pt too high) has occurred while \output is active []
-
-
-[29 <./images/timeseries/INDICIES/SAM_SAM_raw_seasonal_raw.pdf> <./images/times
+[30 <./images/timeseries/INDICIES/SAM_SAM_raw_seasonal_raw.pdf> <./images/times
 eries/INDICIES/IPO_IPO_raw_seasonal_raw.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/IPO_IPO_raw_sea
@@ -1424,63 +1406,58 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/DMI_DMI_raw_sea
 sonal_raw.pdf): PDF inclusion: multiple pdfs with page group included in a sing
 le page
 >]
-<images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_raw.pdf, id=877, 405.916
-pt x 152.97102pt>
+<images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_raw.pdf, id=1091, 344.73
+943pt x 157.29706pt>
 File: images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_raw.pdf Graphic fil
 e (type pdf)
 <use images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_
 raw.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/IPO_IPO_anomalous_seasonal_raw.pdf, id=878, 405.916
-pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/IPO_IPO_anomalous_seasonal_raw.pdf, id=1092, 344.73
+943pt x 157.29706pt>
 File: images/timeseries/INDICIES/IPO_IPO_anomalous_seasonal_raw.pdf Graphic fil
 e (type pdf)
 <use images/timeseries/INDICIES/IPO_IPO_anomalous_seasonal_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/IPO_IPO_anomalous_seasonal_
 raw.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/ENSO_ENSO_anomalous_seasonal_raw.pdf, id=879, 405.9
-16pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/ENSO_ENSO_anomalous_seasonal_raw.pdf, id=1093, 344.
+73943pt x 157.29706pt>
 File: images/timeseries/INDICIES/ENSO_ENSO_anomalous_seasonal_raw.pdf Graphic f
 ile (type pdf)
 <use images/timeseries/INDICIES/ENSO_ENSO_anomalous_seasonal_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/ENSO_ENSO_anomalous_seasona
 l_raw.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/DMI_DMI_anomalous_seasonal_raw.pdf, id=880, 405.916
-pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/DMI_DMI_anomalous_seasonal_raw.pdf, id=1094, 344.73
+943pt x 157.29706pt>
 File: images/timeseries/INDICIES/DMI_DMI_anomalous_seasonal_raw.pdf Graphic fil
 e (type pdf)
 <use images/timeseries/INDICIES/DMI_DMI_anomalous_seasonal_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/DMI_DMI_anomalous_seasonal_
 raw.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [][]
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
-[] 
- []
+Overfull \vbox (108.18663pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (90.88255pt too high) has occurred while \output is active []
-
-
-[30 <./images/timeseries/INDICIES/SAM_SAM_raw_seasonal_detrended.pdf> <./images
+[31 <./images/timeseries/INDICIES/SAM_SAM_raw_seasonal_detrended.pdf> <./images
 /timeseries/INDICIES/IPO_IPO_raw_seasonal_detrended.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/IPO_IPO_raw_sea
@@ -1497,63 +1474,58 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/DMI_DMI_raw_sea
 sonal_detrended.pdf): PDF inclusion: multiple pdfs with page group included in 
 a single page
 >]
-<images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_detrended.pdf, id=914, 4
-05.916pt x 152.97102pt>
+<images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_detrended.pdf, id=1129, 
+344.73943pt x 157.29706pt>
 File: images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_detrended.pdf Graph
 ic file (type pdf)
 <use images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_
 detrended.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/IPO_IPO_anomalous_seasonal_detrended.pdf, id=915, 4
-05.916pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/IPO_IPO_anomalous_seasonal_detrended.pdf, id=1130, 
+344.73943pt x 157.29706pt>
 File: images/timeseries/INDICIES/IPO_IPO_anomalous_seasonal_detrended.pdf Graph
 ic file (type pdf)
 <use images/timeseries/INDICIES/IPO_IPO_anomalous_seasonal_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/IPO_IPO_anomalous_seasonal_
 detrended.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/ENSO_ENSO_anomalous_seasonal_detrended.pdf, id=916,
- 405.916pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/ENSO_ENSO_anomalous_seasonal_detrended.pdf, id=1131
+, 344.73943pt x 157.29706pt>
 File: images/timeseries/INDICIES/ENSO_ENSO_anomalous_seasonal_detrended.pdf Gra
 phic file (type pdf)
 <use images/timeseries/INDICIES/ENSO_ENSO_anomalous_seasonal_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/ENSO_ENSO_anomalous_seasona
 l_detrended.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/DMI_DMI_anomalous_seasonal_detrended.pdf, id=917, 4
-05.916pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/DMI_DMI_anomalous_seasonal_detrended.pdf, id=1132, 
+344.73943pt x 157.29706pt>
 File: images/timeseries/INDICIES/DMI_DMI_anomalous_seasonal_detrended.pdf Graph
 ic file (type pdf)
 <use images/timeseries/INDICIES/DMI_DMI_anomalous_seasonal_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/DMI_DMI_anomalous_seasonal_
 detrended.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [][]
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
-[] 
- []
+Overfull \vbox (108.18663pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (90.88255pt too high) has occurred while \output is active []
-
-
-[31 <./images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_raw.pdf> <./images
+[32 <./images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_raw.pdf> <./images
 /timeseries/INDICIES/IPO_IPO_anomalous_seasonal_raw.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/IPO_IPO_anomalo
@@ -1570,63 +1542,58 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/DMI_DMI_anomalo
 us_seasonal_raw.pdf): PDF inclusion: multiple pdfs with page group included in 
 a single page
 >]
-<images/timeseries/INDICIES/SAM_SAM_raw_annual_raw.pdf, id=952, 405.88684pt x 1
-52.97102pt>
+<images/timeseries/INDICIES/SAM_SAM_raw_annual_raw.pdf, id=1166, 349.48334pt x 
+157.29706pt>
 File: images/timeseries/INDICIES/SAM_SAM_raw_annual_raw.pdf Graphic file (type 
 pdf)
 <use images/timeseries/INDICIES/SAM_SAM_raw_annual_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/SAM_SAM_raw_annual_raw.pdf 
  used on input line 15.
-(pdftex.def)             Requested size: 405.88583pt x 152.97064pt.
-<images/timeseries/INDICIES/IPO_IPO_raw_annual_raw.pdf, id=953, 405.916pt x 152
-.97102pt>
+(pdftex.def)             Requested size: 349.48247pt x 157.29666pt.
+<images/timeseries/INDICIES/IPO_IPO_raw_annual_raw.pdf, id=1167, 344.73943pt x 
+157.29706pt>
 File: images/timeseries/INDICIES/IPO_IPO_raw_annual_raw.pdf Graphic file (type 
 pdf)
 <use images/timeseries/INDICIES/IPO_IPO_raw_annual_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/IPO_IPO_raw_annual_raw.pdf 
  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/ENSO_ENSO_raw_annual_raw.pdf, id=954, 405.916pt x 1
-52.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/ENSO_ENSO_raw_annual_raw.pdf, id=1168, 335.40605pt 
+x 157.29706pt>
 File: images/timeseries/INDICIES/ENSO_ENSO_raw_annual_raw.pdf Graphic file (typ
 e pdf)
 <use images/timeseries/INDICIES/ENSO_ENSO_raw_annual_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/ENSO_ENSO_raw_annual_raw.pd
 f  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/DMI_DMI_raw_annual_raw.pdf, id=955, 405.916pt x 152
-.97102pt>
+(pdftex.def)             Requested size: 335.40523pt x 157.29666pt.
+<images/timeseries/INDICIES/DMI_DMI_raw_annual_raw.pdf, id=1169, 353.8782pt x 1
+57.29706pt>
 File: images/timeseries/INDICIES/DMI_DMI_raw_annual_raw.pdf Graphic file (type 
 pdf)
 <use images/timeseries/INDICIES/DMI_DMI_raw_annual_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/DMI_DMI_raw_annual_raw.pdf 
  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
+(pdftex.def)             Requested size: 353.87732pt x 157.29666pt.
 
-Overfull \hbox (15.88583pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [][]
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
-[] 
- []
+Overfull \vbox (108.18663pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (90.88255pt too high) has occurred while \output is active []
-
-
-[32 <./images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_detrended.pdf> <./
+[33 <./images/timeseries/INDICIES/SAM_SAM_anomalous_seasonal_detrended.pdf> <./
 images/timeseries/INDICIES/IPO_IPO_anomalous_seasonal_detrended.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/IPO_IPO_anomalo
@@ -1643,63 +1610,58 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/DMI_DMI_anomalo
 us_seasonal_detrended.pdf): PDF inclusion: multiple pdfs with page group includ
 ed in a single page
 >]
-<images/timeseries/INDICIES/SAM_SAM_raw_annual_detrended.pdf, id=989, 405.88684
-pt x 152.97102pt>
+<images/timeseries/INDICIES/SAM_SAM_raw_annual_detrended.pdf, id=1203, 349.4833
+4pt x 157.29706pt>
 File: images/timeseries/INDICIES/SAM_SAM_raw_annual_detrended.pdf Graphic file 
 (type pdf)
 <use images/timeseries/INDICIES/SAM_SAM_raw_annual_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/SAM_SAM_raw_annual_detrende
 d.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.88583pt x 152.97064pt.
-<images/timeseries/INDICIES/IPO_IPO_raw_annual_detrended.pdf, id=990, 405.916pt
- x 152.97102pt>
+(pdftex.def)             Requested size: 349.48247pt x 157.29666pt.
+<images/timeseries/INDICIES/IPO_IPO_raw_annual_detrended.pdf, id=1204, 344.7394
+3pt x 157.29706pt>
 File: images/timeseries/INDICIES/IPO_IPO_raw_annual_detrended.pdf Graphic file 
 (type pdf)
 <use images/timeseries/INDICIES/IPO_IPO_raw_annual_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/IPO_IPO_raw_annual_detrende
 d.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/ENSO_ENSO_raw_annual_detrended.pdf, id=991, 405.916
-pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/ENSO_ENSO_raw_annual_detrended.pdf, id=1205, 344.73
+943pt x 157.29706pt>
 File: images/timeseries/INDICIES/ENSO_ENSO_raw_annual_detrended.pdf Graphic fil
 e (type pdf)
 <use images/timeseries/INDICIES/ENSO_ENSO_raw_annual_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/ENSO_ENSO_raw_annual_detren
 ded.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/DMI_DMI_raw_annual_detrended.pdf, id=992, 405.916pt
- x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/DMI_DMI_raw_annual_detrended.pdf, id=1206, 353.8782
+pt x 157.29706pt>
 File: images/timeseries/INDICIES/DMI_DMI_raw_annual_detrended.pdf Graphic file 
 (type pdf)
 <use images/timeseries/INDICIES/DMI_DMI_raw_annual_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/DMI_DMI_raw_annual_detrende
 d.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
+(pdftex.def)             Requested size: 353.87732pt x 157.29666pt.
 
-Overfull \hbox (15.88583pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [][]
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
-[] 
- []
+Overfull \vbox (108.18663pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (90.88255pt too high) has occurred while \output is active []
-
-
-[33 <./images/timeseries/INDICIES/SAM_SAM_raw_annual_raw.pdf> <./images/timeser
+[34 <./images/timeseries/INDICIES/SAM_SAM_raw_annual_raw.pdf> <./images/timeser
 ies/INDICIES/IPO_IPO_raw_annual_raw.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/IPO_IPO_raw_ann
@@ -1716,63 +1678,58 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/DMI_DMI_raw_ann
 ual_raw.pdf): PDF inclusion: multiple pdfs with page group included in a single
  page
 >]
-<images/timeseries/INDICIES/SAM_SAM_anomalous_annual_raw.pdf, id=1026, 405.8868
-4pt x 152.97102pt>
+<images/timeseries/INDICIES/SAM_SAM_anomalous_annual_raw.pdf, id=1240, 349.4833
+4pt x 157.29706pt>
 File: images/timeseries/INDICIES/SAM_SAM_anomalous_annual_raw.pdf Graphic file 
 (type pdf)
 <use images/timeseries/INDICIES/SAM_SAM_anomalous_annual_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/SAM_SAM_anomalous_annual_ra
 w.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.88583pt x 152.97064pt.
-<images/timeseries/INDICIES/IPO_IPO_anomalous_annual_raw.pdf, id=1027, 405.916p
-t x 152.97102pt>
+(pdftex.def)             Requested size: 349.48247pt x 157.29666pt.
+<images/timeseries/INDICIES/IPO_IPO_anomalous_annual_raw.pdf, id=1241, 344.7394
+3pt x 157.29706pt>
 File: images/timeseries/INDICIES/IPO_IPO_anomalous_annual_raw.pdf Graphic file 
 (type pdf)
 <use images/timeseries/INDICIES/IPO_IPO_anomalous_annual_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/IPO_IPO_anomalous_annual_ra
 w.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/ENSO_ENSO_anomalous_annual_raw.pdf, id=1028, 405.91
-6pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/ENSO_ENSO_anomalous_annual_raw.pdf, id=1242, 344.73
+943pt x 157.29706pt>
 File: images/timeseries/INDICIES/ENSO_ENSO_anomalous_annual_raw.pdf Graphic fil
 e (type pdf)
 <use images/timeseries/INDICIES/ENSO_ENSO_anomalous_annual_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/ENSO_ENSO_anomalous_annual_
 raw.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/DMI_DMI_anomalous_annual_raw.pdf, id=1029, 405.916p
-t x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/DMI_DMI_anomalous_annual_raw.pdf, id=1243, 353.8782
+pt x 157.29706pt>
 File: images/timeseries/INDICIES/DMI_DMI_anomalous_annual_raw.pdf Graphic file 
 (type pdf)
 <use images/timeseries/INDICIES/DMI_DMI_anomalous_annual_raw.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/DMI_DMI_anomalous_annual_ra
 w.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
+(pdftex.def)             Requested size: 353.87732pt x 157.29666pt.
 
-Overfull \hbox (15.88583pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [][]
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
-[] 
- []
+Overfull \vbox (108.18663pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (90.88255pt too high) has occurred while \output is active []
-
-
-[34 <./images/timeseries/INDICIES/SAM_SAM_raw_annual_detrended.pdf> <./images/t
+[35 <./images/timeseries/INDICIES/SAM_SAM_raw_annual_detrended.pdf> <./images/t
 imeseries/INDICIES/IPO_IPO_raw_annual_detrended.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/IPO_IPO_raw_ann
@@ -1789,63 +1746,58 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/DMI_DMI_raw_ann
 ual_detrended.pdf): PDF inclusion: multiple pdfs with page group included in a 
 single page
 >]
-<images/timeseries/INDICIES/SAM_SAM_anomalous_annual_detrended.pdf, id=1066, 40
-5.88684pt x 152.97102pt>
+<images/timeseries/INDICIES/SAM_SAM_anomalous_annual_detrended.pdf, id=1280, 34
+9.48334pt x 157.29706pt>
 File: images/timeseries/INDICIES/SAM_SAM_anomalous_annual_detrended.pdf Graphic
  file (type pdf)
 <use images/timeseries/INDICIES/SAM_SAM_anomalous_annual_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/SAM_SAM_anomalous_annual_de
 trended.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.88583pt x 152.97064pt.
-<images/timeseries/INDICIES/IPO_IPO_anomalous_annual_detrended.pdf, id=1067, 40
-5.916pt x 152.97102pt>
+(pdftex.def)             Requested size: 349.48247pt x 157.29666pt.
+<images/timeseries/INDICIES/IPO_IPO_anomalous_annual_detrended.pdf, id=1281, 34
+4.73943pt x 157.29706pt>
 File: images/timeseries/INDICIES/IPO_IPO_anomalous_annual_detrended.pdf Graphic
  file (type pdf)
 <use images/timeseries/INDICIES/IPO_IPO_anomalous_annual_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/IPO_IPO_anomalous_annual_de
 trended.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/ENSO_ENSO_anomalous_annual_detrended.pdf, id=1068, 
-405.916pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/ENSO_ENSO_anomalous_annual_detrended.pdf, id=1282, 
+344.73943pt x 157.29706pt>
 File: images/timeseries/INDICIES/ENSO_ENSO_anomalous_annual_detrended.pdf Graph
 ic file (type pdf)
 <use images/timeseries/INDICIES/ENSO_ENSO_anomalous_annual_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/ENSO_ENSO_anomalous_annual_
 detrended.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
-<images/timeseries/INDICIES/DMI_DMI_anomalous_annual_detrended.pdf, id=1069, 40
-5.916pt x 152.97102pt>
+(pdftex.def)             Requested size: 344.73857pt x 157.29666pt.
+<images/timeseries/INDICIES/DMI_DMI_anomalous_annual_detrended.pdf, id=1283, 35
+3.8782pt x 157.29706pt>
 File: images/timeseries/INDICIES/DMI_DMI_anomalous_annual_detrended.pdf Graphic
  file (type pdf)
 <use images/timeseries/INDICIES/DMI_DMI_anomalous_annual_detrended.pdf>
 Package pdftex.def Info: images/timeseries/INDICIES/DMI_DMI_anomalous_annual_de
 trended.pdf  used on input line 15.
-(pdftex.def)             Requested size: 405.915pt x 152.97064pt.
+(pdftex.def)             Requested size: 353.87732pt x 157.29666pt.
 
-Overfull \hbox (15.88583pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [][]
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []
  []
 
 
-Overfull \hbox (15.915pt too wide) in paragraph at lines 15--15
-[] 
- []
+Overfull \vbox (108.18663pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (90.88255pt too high) has occurred while \output is active []
-
-
-[35 <./images/timeseries/INDICIES/SAM_SAM_anomalous_annual_raw.pdf> <./images/t
+[36 <./images/timeseries/INDICIES/SAM_SAM_anomalous_annual_raw.pdf> <./images/t
 imeseries/INDICIES/IPO_IPO_anomalous_annual_raw.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/IPO_IPO_anomalo
@@ -1862,10 +1814,10 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/DMI_DMI_anomalo
 us_annual_raw.pdf): PDF inclusion: multiple pdfs with page group included in a 
 single page
 >]
-Overfull \vbox (90.88255pt too high) has occurred while \output is active []
+Overfull \vbox (108.18663pt too high) has occurred while \output is active []
 
 
-[36 <./images/timeseries/INDICIES/SAM_SAM_anomalous_annual_detrended.pdf> <./im
+[37 <./images/timeseries/INDICIES/SAM_SAM_anomalous_annual_detrended.pdf> <./im
 ages/timeseries/INDICIES/IPO_IPO_anomalous_annual_detrended.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/IPO_IPO_anomalo
@@ -1882,80 +1834,80 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/INDICIES/DMI_DMI_anomalo
 us_annual_detrended.pdf): PDF inclusion: multiple pdfs with page group included
  in a single page
 >]
-<images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_monthly_raw_nsidc.pdf, id=1142,
- 398.75375pt x 182.39665pt>
+<images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_monthly_raw_nsidc.pdf, id=1357,
+ 396.14264pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_monthly_raw_nsidc.pdf Grap
 hic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_monthly_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_monthly
 _raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 398.75278pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.14168pt x 182.3962pt.
 
-Overfull \hbox (8.75278pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.14168pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-<images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_monthly_raw_nsidc.pdf, id=1143,
- 398.75375pt x 182.39665pt>
+<images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_monthly_raw_nsidc.pdf, id=1358,
+ 396.14264pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_monthly_raw_nsidc.pdf Grap
 hic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_monthly_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_monthly
 _raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 398.75278pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.14168pt x 182.3962pt.
 
-Overfull \hbox (8.75278pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.14168pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-<images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_monthly_raw_nsidc.pdf, id=114
-4, 398.75375pt x 182.39665pt>
+<images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_monthly_raw_nsidc.pdf, id=135
+9, 396.14264pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_monthly_raw_nsidc.pdf Gr
 aphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_monthly_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_month
 ly_raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 398.75278pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.14168pt x 182.3962pt.
 
-Overfull \hbox (8.75278pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.14168pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[37 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_monthly_raw_nsidc.pdf> <.
+[38 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_monthly_raw_nsidc.pdf> <.
 /images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_monthly_raw_nsidc.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC_INDICIES/SIC_IPO_IPO
 _raw_monthly_raw_nsidc.pdf): PDF inclusion: multiple pdfs with page group inclu
 ded in a single page
 >]
-<images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_monthly_raw_nsidc.pdf, id=1165,
- 398.75375pt x 182.39665pt>
+<images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_monthly_raw_nsidc.pdf, id=1391,
+ 396.14264pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_monthly_raw_nsidc.pdf Grap
 hic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_monthly_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_monthly
 _raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 398.75278pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.14168pt x 182.3962pt.
 
-Overfull \hbox (8.75278pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.14168pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
 <images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_monthly_detrended_nsidc.pdf, id
-=1166, 402.21216pt x 182.39665pt>
+=1392, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_monthly_detrended_nsidc.pd
 f Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_monthly_detrended_nsidc.pdf
 >
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_monthly
 _detrended_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 402.21118pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
 
-Overfull \hbox (12.21118pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[38 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_monthly_raw_nsidc.pdf> 
+[39 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_monthly_raw_nsidc.pdf> 
 <./images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_monthly_raw_nsidc.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC_INDICIES/SIC_DMI_DMI
@@ -1963,34 +1915,34 @@ _raw_monthly_raw_nsidc.pdf): PDF inclusion: multiple pdfs with page group inclu
 ded in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_monthly_detrended_nsidc.pdf, id
-=1186, 402.21216pt x 182.39665pt>
+=1424, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_monthly_detrended_nsidc.pd
 f Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_monthly_detrended_nsidc.pdf
 >
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_monthly
 _detrended_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 402.21118pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
 
-Overfull \hbox (12.21118pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
 <images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_monthly_detrended_nsidc.pdf, 
-id=1187, 402.21216pt x 182.39665pt>
+id=1425, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_monthly_detrended_nsidc.
 pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_monthly_detrended_nsidc.p
 df>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_month
 ly_detrended_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 402.21118pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
 
-Overfull \hbox (12.21118pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[39 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_monthly_detrended_nsidc.p
+[40 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_monthly_detrended_nsidc.p
 df> <./images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_monthly_detrended_nsidc.p
 df
 
@@ -1999,21 +1951,21 @@ _raw_monthly_detrended_nsidc.pdf): PDF inclusion: multiple pdfs with page group
  included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_monthly_detrended_nsidc.pdf, id
-=1207, 402.21216pt x 182.39665pt>
+=1451, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_monthly_detrended_nsidc.pd
 f Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_monthly_detrended_nsidc.pdf
 >
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_monthly
 _detrended_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 402.21118pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
 
-Overfull \hbox (12.21118pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
 <images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_monthly_raw_nsidc.pdf, id
-=1208, 396.33722pt x 182.39665pt>
+=1452, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_monthly_raw_nsidc.pd
 f Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_monthly_raw_nsidc.pdf
@@ -2026,7 +1978,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[40 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_monthly_detrended_nsidc
+[41 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_monthly_detrended_nsidc
 .pdf> <./images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_monthly_detrended_nsidc
 .pdf
 
@@ -2035,7 +1987,7 @@ _raw_monthly_detrended_nsidc.pdf): PDF inclusion: multiple pdfs with page group
  included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_monthly_raw_nsidc.pdf, id
-=1228, 396.33722pt x 182.39665pt>
+=1478, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_monthly_raw_nsidc.pd
 f Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_monthly_raw_nsidc.pdf
@@ -2049,7 +2001,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
  []
 
 <images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_monthly_raw_nsidc.pdf, 
-id=1229, 396.33722pt x 182.39665pt>
+id=1479, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_monthly_raw_nsidc.
 pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_monthly_raw_nsidc.p
@@ -2062,7 +2014,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[41 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_monthly_raw_nsidc.p
+[42 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_monthly_raw_nsidc.p
 df> <./images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_monthly_raw_nsidc.p
 df
 
@@ -2071,7 +2023,7 @@ _anomalous_monthly_raw_nsidc.pdf): PDF inclusion: multiple pdfs with page group
  included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_monthly_raw_nsidc.pdf, id
-=1249, 396.33722pt x 182.39665pt>
+=1505, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_monthly_raw_nsidc.pd
 f Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_monthly_raw_nsidc.pdf
@@ -2085,7 +2037,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
  []
 
 <images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_monthly_detrended_nsidc.p
-df, id=1250, 396.33722pt x 182.39665pt>
+df, id=1506, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_monthly_detrended_ns
 idc.pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_monthly_detrended_nsi
@@ -2098,7 +2050,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[42 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_monthly_raw_nsidc
+[43 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_monthly_raw_nsidc
 .pdf> <./images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_monthly_raw_nsidc
 .pdf
 
@@ -2107,7 +2059,7 @@ _anomalous_monthly_raw_nsidc.pdf): PDF inclusion: multiple pdfs with page group
  included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_monthly_detrended_nsidc.p
-df, id=1270, 396.33722pt x 182.39665pt>
+df, id=1533, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_monthly_detrended_ns
 idc.pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_monthly_detrended_nsi
@@ -2121,7 +2073,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
  []
 
 <images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_monthly_detrended_nsidc
-.pdf, id=1271, 396.33722pt x 182.39665pt>
+.pdf, id=1534, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_monthly_detrended_
 nsidc.pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_monthly_detrended_n
@@ -2134,7 +2086,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[43 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_monthly_detrended_n
+[44 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_monthly_detrended_n
 sidc.pdf> <./images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_monthly_detre
 nded_nsidc.pdf
 
@@ -2143,7 +2095,7 @@ _anomalous_monthly_detrended_nsidc.pdf): PDF inclusion: multiple pdfs with page
  group included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_monthly_detrended_nsidc.p
-df, id=1294, 396.33722pt x 182.39665pt>
+df, id=1560, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_monthly_detrended_ns
 idc.pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_monthly_detrended_nsi
@@ -2156,20 +2108,20 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-<images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_seasonal_raw_nsidc.pdf, id=1295
-, 398.75375pt x 182.39665pt>
+<images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_seasonal_raw_nsidc.pdf, id=1561
+, 396.14264pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_seasonal_raw_nsidc.pdf Gra
 phic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_seasonal_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_seasona
 l_raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 398.75278pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.14168pt x 182.3962pt.
 
-Overfull \hbox (8.75278pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.14168pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[44 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_monthly_detrended
+[45 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_monthly_detrended
 _nsidc.pdf> <./images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_monthly_det
 rended_nsidc.pdf
 
@@ -2177,67 +2129,67 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC_INDICIES/SIC_DMI_DMI
 _anomalous_monthly_detrended_nsidc.pdf): PDF inclusion: multiple pdfs with page
  group included in a single page
 >]
-<images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_seasonal_raw_nsidc.pdf, id=1317
-, 398.75375pt x 182.39665pt>
+<images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_seasonal_raw_nsidc.pdf, id=1587
+, 396.14264pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_seasonal_raw_nsidc.pdf Gra
 phic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_seasonal_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_seasona
 l_raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 398.75278pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.14168pt x 182.3962pt.
 
-Overfull \hbox (8.75278pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.14168pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-<images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_seasonal_raw_nsidc.pdf, id=13
-18, 398.75375pt x 182.39665pt>
+<images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_seasonal_raw_nsidc.pdf, id=15
+88, 396.14264pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_seasonal_raw_nsidc.pdf G
 raphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_seasonal_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_seaso
 nal_raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 398.75278pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.14168pt x 182.3962pt.
 
-Overfull \hbox (8.75278pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.14168pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[45 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_seasonal_raw_nsidc.pdf> <
+[46 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_seasonal_raw_nsidc.pdf> <
 ./images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_seasonal_raw_nsidc.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC_INDICIES/SIC_IPO_IPO
 _raw_seasonal_raw_nsidc.pdf): PDF inclusion: multiple pdfs with page group incl
 uded in a single page
 >]
-<images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_seasonal_raw_nsidc.pdf, id=1340
-, 398.75375pt x 182.39665pt>
+<images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_seasonal_raw_nsidc.pdf, id=1620
+, 396.14264pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_seasonal_raw_nsidc.pdf Gra
 phic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_seasonal_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_seasona
 l_raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 398.75278pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.14168pt x 182.3962pt.
 
-Overfull \hbox (8.75278pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.14168pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
 <images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_seasonal_detrended_nsidc.pdf, i
-d=1341, 402.21216pt x 182.39665pt>
+d=1621, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_seasonal_detrended_nsidc.p
 df Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_seasonal_detrended_nsidc.pd
 f>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_seasona
 l_detrended_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 402.21118pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
 
-Overfull \hbox (12.21118pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[46 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_seasonal_raw_nsidc.pdf>
+[47 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_seasonal_raw_nsidc.pdf>
  <./images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_seasonal_raw_nsidc.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC_INDICIES/SIC_DMI_DMI
@@ -2245,34 +2197,34 @@ _raw_seasonal_raw_nsidc.pdf): PDF inclusion: multiple pdfs with page group incl
 uded in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_seasonal_detrended_nsidc.pdf, i
-d=1363, 402.21216pt x 182.39665pt>
+d=1653, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_seasonal_detrended_nsidc.p
 df Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_seasonal_detrended_nsidc.pd
 f>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_seasona
 l_detrended_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 402.21118pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
 
-Overfull \hbox (12.21118pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
 <images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_seasonal_detrended_nsidc.pdf,
- id=1364, 402.21216pt x 182.39665pt>
+ id=1654, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_seasonal_detrended_nsidc
 .pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_seasonal_detrended_nsidc.
 pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_seaso
 nal_detrended_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 402.21118pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
 
-Overfull \hbox (12.21118pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[47 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_seasonal_detrended_nsidc.
+[48 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_seasonal_detrended_nsidc.
 pdf> <./images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_seasonal_detrended_nsidc
 .pdf
 
@@ -2281,21 +2233,21 @@ _raw_seasonal_detrended_nsidc.pdf): PDF inclusion: multiple pdfs with page grou
 p included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_seasonal_detrended_nsidc.pdf, i
-d=1386, 402.21216pt x 182.39665pt>
+d=1680, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_seasonal_detrended_nsidc.p
 df Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_seasonal_detrended_nsidc.pd
 f>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_seasona
 l_detrended_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 402.21118pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
 
-Overfull \hbox (12.21118pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
 <images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_seasonal_raw_nsidc.pdf, i
-d=1387, 396.33722pt x 182.39665pt>
+d=1681, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_seasonal_raw_nsidc.p
 df Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_seasonal_raw_nsidc.pd
@@ -2308,7 +2260,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[48 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_seasonal_detrended_nsid
+[49 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_seasonal_detrended_nsid
 c.pdf> <./images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_seasonal_detrended_nsi
 dc.pdf
 
@@ -2317,7 +2269,7 @@ _raw_seasonal_detrended_nsidc.pdf): PDF inclusion: multiple pdfs with page grou
 p included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_seasonal_raw_nsidc.pdf, i
-d=1409, 396.33722pt x 182.39665pt>
+d=1708, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_seasonal_raw_nsidc.p
 df Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_seasonal_raw_nsidc.pd
@@ -2331,7 +2283,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
  []
 
 <images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_seasonal_raw_nsidc.pdf,
- id=1410, 396.33722pt x 182.39665pt>
+ id=1709, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_seasonal_raw_nsidc
 .pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_seasonal_raw_nsidc.
@@ -2344,7 +2296,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[49 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_seasonal_raw_nsidc.
+[50 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_seasonal_raw_nsidc.
 pdf> <./images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_seasonal_raw_nsidc
 .pdf
 
@@ -2353,7 +2305,7 @@ _anomalous_seasonal_raw_nsidc.pdf): PDF inclusion: multiple pdfs with page grou
 p included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_seasonal_raw_nsidc.pdf, i
-d=1433, 396.33722pt x 182.39665pt>
+d=1735, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_seasonal_raw_nsidc.p
 df Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_seasonal_raw_nsidc.pd
@@ -2367,7 +2319,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
  []
 
 <images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_seasonal_detrended_nsidc.
-pdf, id=1434, 396.33722pt x 182.39665pt>
+pdf, id=1736, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_seasonal_detrended_n
 sidc.pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_seasonal_detrended_ns
@@ -2380,7 +2332,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[50 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_seasonal_raw_nsid
+[51 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_seasonal_raw_nsid
 c.pdf> <./images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_seasonal_raw_nsi
 dc.pdf
 
@@ -2389,7 +2341,7 @@ _anomalous_seasonal_raw_nsidc.pdf): PDF inclusion: multiple pdfs with page grou
 p included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_seasonal_detrended_nsidc.
-pdf, id=1456, 396.33722pt x 182.39665pt>
+pdf, id=1762, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_seasonal_detrended_n
 sidc.pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_seasonal_detrended_ns
@@ -2403,7 +2355,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
  []
 
 <images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_seasonal_detrended_nsid
-c.pdf, id=1457, 396.33722pt x 182.39665pt>
+c.pdf, id=1763, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_seasonal_detrended
 _nsidc.pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_seasonal_detrended_
@@ -2416,7 +2368,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[51 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_seasonal_detrended_
+[52 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_seasonal_detrended_
 nsidc.pdf> <./images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_seasonal_det
 rended_nsidc.pdf
 
@@ -2425,7 +2377,7 @@ _anomalous_seasonal_detrended_nsidc.pdf): PDF inclusion: multiple pdfs with pag
 e group included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_seasonal_detrended_nsidc.
-pdf, id=1479, 396.33722pt x 182.39665pt>
+pdf, id=1789, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_seasonal_detrended_n
 sidc.pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_seasonal_detrended_ns
@@ -2438,20 +2390,20 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-<images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_annual_raw_nsidc.pdf, id=1480, 
-392.8788pt x 182.39665pt>
+<images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_annual_raw_nsidc.pdf, id=1790, 
+402.0176pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_annual_raw_nsidc.pdf Graph
 ic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_annual_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_annual_
 raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 392.87782pt x 182.3962pt.
+(pdftex.def)             Requested size: 402.0166pt x 182.3962pt.
 
-Overfull \hbox (2.87782pt too wide) in paragraph at lines 34--34
+Overfull \hbox (12.0166pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[52 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_seasonal_detrende
+[53 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_seasonal_detrende
 d_nsidc.pdf> <./images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_seasonal_d
 etrended_nsidc.pdf
 
@@ -2459,54 +2411,54 @@ pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC_INDICIES/SIC_DMI_DMI
 _anomalous_seasonal_detrended_nsidc.pdf): PDF inclusion: multiple pdfs with pag
 e group included in a single page
 >]
-<images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_annual_raw_nsidc.pdf, id=1502, 
-392.8788pt x 182.39665pt>
+<images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_annual_raw_nsidc.pdf, id=1816, 
+402.0176pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_annual_raw_nsidc.pdf Graph
 ic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_annual_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_annual_
 raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 392.87782pt x 182.3962pt.
+(pdftex.def)             Requested size: 402.0166pt x 182.3962pt.
 
-Overfull \hbox (2.87782pt too wide) in paragraph at lines 34--34
+Overfull \hbox (12.0166pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-<images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_annual_raw_nsidc.pdf, id=1503
-, 392.8788pt x 182.39665pt>
+<images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_annual_raw_nsidc.pdf, id=1817
+, 402.0176pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_annual_raw_nsidc.pdf Gra
 phic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_annual_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_annua
 l_raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 392.87782pt x 182.3962pt.
+(pdftex.def)             Requested size: 402.0166pt x 182.3962pt.
 
-Overfull \hbox (2.87782pt too wide) in paragraph at lines 34--34
+Overfull \hbox (12.0166pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[53 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_annual_raw_nsidc.pdf> <./
+[54 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_annual_raw_nsidc.pdf> <./
 images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_annual_raw_nsidc.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC_INDICIES/SIC_IPO_IPO
 _raw_annual_raw_nsidc.pdf): PDF inclusion: multiple pdfs with page group includ
 ed in a single page
 >]
-<images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_annual_raw_nsidc.pdf, id=1525, 
-392.8788pt x 182.39665pt>
+<images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_annual_raw_nsidc.pdf, id=1849, 
+402.0176pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_annual_raw_nsidc.pdf Graph
 ic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_annual_raw_nsidc.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_annual_
 raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 392.87782pt x 182.3962pt.
+(pdftex.def)             Requested size: 402.0166pt x 182.3962pt.
 
-Overfull \hbox (2.87782pt too wide) in paragraph at lines 34--34
+Overfull \hbox (12.0166pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
 <images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_annual_detrended_nsidc.pdf, id=
-1526, 396.33722pt x 182.39665pt>
+1850, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_annual_detrended_nsidc.pdf
  Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_annual_detrended_nsidc.pdf>
@@ -2519,7 +2471,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[54 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_annual_raw_nsidc.pdf> <
+[55 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_annual_raw_nsidc.pdf> <
 ./images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_annual_raw_nsidc.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC_INDICIES/SIC_DMI_DMI
@@ -2527,7 +2479,7 @@ _raw_annual_raw_nsidc.pdf): PDF inclusion: multiple pdfs with page group includ
 ed in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_annual_detrended_nsidc.pdf, id=
-1548, 396.33722pt x 182.39665pt>
+1883, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_annual_detrended_nsidc.pdf
  Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_annual_detrended_nsidc.pdf>
@@ -2541,7 +2493,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
  []
 
 <images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_annual_detrended_nsidc.pdf, i
-d=1549, 396.33722pt x 182.39665pt>
+d=1884, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_annual_detrended_nsidc.p
 df Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_annual_detrended_nsidc.pd
@@ -2554,7 +2506,7 @@ Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[55 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_annual_detrended_nsidc.pd
+[56 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_raw_annual_detrended_nsidc.pd
 f> <./images/timeseries/SIC_INDICIES/SIC_IPO_IPO_raw_annual_detrended_nsidc.pdf
 
 
@@ -2563,7 +2515,7 @@ _raw_annual_detrended_nsidc.pdf): PDF inclusion: multiple pdfs with page group
 included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_annual_detrended_nsidc.pdf, id=
-1572, 405.476pt x 182.39665pt>
+1910, 405.476pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_annual_detrended_nsidc.pdf
  Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_annual_detrended_nsidc.pdf>
@@ -2577,20 +2529,20 @@ Overfull \hbox (15.475pt too wide) in paragraph at lines 34--34
  []
 
 <images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_annual_raw_nsidc.pdf, id=
-1573, 405.476pt x 182.39665pt>
+1911, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_annual_raw_nsidc.pdf
  Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_annual_raw_nsidc.pdf>
 
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_a
 nnual_raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 405.475pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
 
-Overfull \hbox (15.475pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[56 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_annual_detrended_nsidc.
+[57 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_raw_annual_detrended_nsidc.
 pdf> <./images/timeseries/SIC_INDICIES/SIC_DMI_DMI_raw_annual_detrended_nsidc.p
 df
 
@@ -2599,34 +2551,34 @@ _raw_annual_detrended_nsidc.pdf): PDF inclusion: multiple pdfs with page group
 included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_annual_raw_nsidc.pdf, id=
-1598, 405.476pt x 182.39665pt>
+1940, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_annual_raw_nsidc.pdf
  Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_annual_raw_nsidc.pdf>
 
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_a
 nnual_raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 405.475pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
 
-Overfull \hbox (15.475pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
 <images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_annual_raw_nsidc.pdf, i
-d=1599, 405.476pt x 182.39665pt>
+d=1941, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_annual_raw_nsidc.p
 df Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_annual_raw_nsidc.pd
 f>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous
 _annual_raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 405.475pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
 
-Overfull \hbox (15.475pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[57 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_annual_raw_nsidc.pd
+[58 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_annual_raw_nsidc.pd
 f> <./images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_annual_raw_nsidc.pdf
 
 
@@ -2635,34 +2587,34 @@ _anomalous_annual_raw_nsidc.pdf): PDF inclusion: multiple pdfs with page group
 included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_annual_raw_nsidc.pdf, id=
-1627, 414.61482pt x 182.39665pt>
+1967, 405.476pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_annual_raw_nsidc.pdf
  Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_annual_raw_nsidc.pdf>
 
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_a
 nnual_raw_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 414.6138pt x 182.3962pt.
-
-Overfull \hbox (24.6138pt too wide) in paragraph at lines 34--34
-[][] 
- []
-
-<images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_annual_detrended_nsidc.pd
-f, id=1628, 405.476pt x 182.39665pt>
-File: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_annual_detrended_nsi
-dc.pdf Graphic file (type pdf)
-<use images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_annual_detrended_nsid
-c.pdf>
-Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_a
-nnual_detrended_nsidc.pdf  used on input line 34.
 (pdftex.def)             Requested size: 405.475pt x 182.3962pt.
 
 Overfull \hbox (15.475pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[58 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_annual_raw_nsidc.
+<images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_annual_detrended_nsidc.pd
+f, id=1968, 396.33722pt x 182.39665pt>
+File: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_annual_detrended_nsi
+dc.pdf Graphic file (type pdf)
+<use images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_annual_detrended_nsid
+c.pdf>
+Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_a
+nnual_detrended_nsidc.pdf  used on input line 34.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
+
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
+[][] 
+ []
+
+[59 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_annual_raw_nsidc.
 pdf> <./images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_annual_raw_nsidc.p
 df
 
@@ -2671,34 +2623,34 @@ _anomalous_annual_raw_nsidc.pdf): PDF inclusion: multiple pdfs with page group
 included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_annual_detrended_nsidc.pd
-f, id=1656, 405.476pt x 182.39665pt>
+f, id=1997, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_annual_detrended_nsi
 dc.pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_annual_detrended_nsid
 c.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_a
 nnual_detrended_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 405.475pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
 
-Overfull \hbox (15.475pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
 <images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_annual_detrended_nsidc.
-pdf, id=1657, 405.476pt x 182.39665pt>
+pdf, id=1998, 396.33722pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_annual_detrended_n
 sidc.pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_annual_detrended_ns
 idc.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous
 _annual_detrended_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 405.475pt x 182.3962pt.
+(pdftex.def)             Requested size: 396.33624pt x 182.3962pt.
 
-Overfull \hbox (15.475pt too wide) in paragraph at lines 34--34
+Overfull \hbox (6.33624pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-[59 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_annual_detrended_ns
+[60 <./images/timeseries/SIC_INDICIES/SIC_SAM_SAM_anomalous_annual_detrended_ns
 idc.pdf> <./images/timeseries/SIC_INDICIES/SIC_IPO_IPO_anomalous_annual_detrend
 ed_nsidc.pdf
 
@@ -2707,53 +2659,297 @@ _anomalous_annual_detrended_nsidc.pdf): PDF inclusion: multiple pdfs with page
 group included in a single page
 >]
 <images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_annual_detrended_nsidc.pd
-f, id=1685, 414.61482pt x 182.39665pt>
+f, id=2024, 405.476pt x 182.39665pt>
 File: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_annual_detrended_nsi
 dc.pdf Graphic file (type pdf)
 <use images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_annual_detrended_nsid
 c.pdf>
 Package pdftex.def Info: images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_a
 nnual_detrended_nsidc.pdf  used on input line 34.
-(pdftex.def)             Requested size: 414.6138pt x 182.3962pt.
+(pdftex.def)             Requested size: 405.475pt x 182.3962pt.
 
-Overfull \hbox (24.6138pt too wide) in paragraph at lines 34--34
+Overfull \hbox (15.475pt too wide) in paragraph at lines 34--34
 [][] 
  []
 
-) [60 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_annual_detrende
-d_nsidc.pdf> <./images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_annual_det
-rended_nsidc.pdf
+) (sections/correlations.tex
+Overfull \hbox (24.53853pt too wide) in paragraph at lines 5--21
+[][] 
+ []
+
+[61 <./images/timeseries/SIC_INDICIES/SIC_ENSO_ENSO_anomalous_annual_detrended_
+nsidc.pdf> <./images/timeseries/SIC_INDICIES/SIC_DMI_DMI_anomalous_annual_detre
+nded_nsidc.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/timeseries/SIC_INDICIES/SIC_DMI_DMI
 _anomalous_annual_detrended_nsidc.pdf): PDF inclusion: multiple pdfs with page 
 group included in a single page
 >]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
+Overfull \hbox (26.49684pt too wide) in paragraph at lines 26--42
+[][] 
+ []
+
+<images/correlations/spatial/raw_monthly_raw_1_nsidc.pdf, id=2054, 346.43016pt 
+x 320.87447pt>
+File: images/correlations/spatial/raw_monthly_raw_1_nsidc.pdf Graphic file (typ
+e pdf)
+<use images/correlations/spatial/raw_monthly_raw_1_nsidc.pdf>
+Package pdftex.def Info: images/correlations/spatial/raw_monthly_raw_1_nsidc.pd
+f  used on input line 57.
+(pdftex.def)             Requested size: 346.4293pt x 320.87367pt.
+<images/correlations/spatial/raw_monthly_detrended_1_nsidc.pdf, id=2055, 373.20
+52pt x 320.87447pt>
+File: images/correlations/spatial/raw_monthly_detrended_1_nsidc.pdf Graphic fil
+e (type pdf)
+<use images/correlations/spatial/raw_monthly_detrended_1_nsidc.pdf>
+Package pdftex.def Info: images/correlations/spatial/raw_monthly_detrended_1_ns
+idc.pdf  used on input line 57.
+(pdftex.def)             Requested size: 373.20428pt x 320.87367pt.
+[62]
+<images/correlations/spatial/anomalous_monthly_raw_1_nsidc.pdf, id=2062, 361.00
+371pt x 320.87447pt>
+File: images/correlations/spatial/anomalous_monthly_raw_1_nsidc.pdf Graphic fil
+e (type pdf)
+<use images/correlations/spatial/anomalous_monthly_raw_1_nsidc.pdf>
+Package pdftex.def Info: images/correlations/spatial/anomalous_monthly_raw_1_ns
+idc.pdf  used on input line 57.
+(pdftex.def)             Requested size: 361.00282pt x 320.87367pt.
+ [63 <./images/correlations/spatial/raw_monthly_raw_1_nsidc.pdf>]
+<images/correlations/spatial/anomalous_monthly_detrended_1_nsidc.pdf, id=2081, 
+393.90329pt x 320.87447pt>
+File: images/correlations/spatial/anomalous_monthly_detrended_1_nsidc.pdf Graph
+ic file (type pdf)
+<use images/correlations/spatial/anomalous_monthly_detrended_1_nsidc.pdf>
+Package pdftex.def Info: images/correlations/spatial/anomalous_monthly_detrende
+d_1_nsidc.pdf  used on input line 57.
+(pdftex.def)             Requested size: 393.90231pt x 320.87367pt.
+
+Overfull \hbox (3.90231pt too wide) in paragraph at lines 57--57
+[][] 
+ []
+
+[64 <./images/correlations/spatial/raw_monthly_detrended_1_nsidc.pdf>]
+<images/correlations/spatial/raw_seasonal_raw_1_nsidc.pdf, id=2100, 346.43016pt
+ x 320.87447pt>
+File: images/correlations/spatial/raw_seasonal_raw_1_nsidc.pdf Graphic file (ty
+pe pdf)
+<use images/correlations/spatial/raw_seasonal_raw_1_nsidc.pdf>
+Package pdftex.def Info: images/correlations/spatial/raw_seasonal_raw_1_nsidc.p
+df  used on input line 57.
+(pdftex.def)             Requested size: 346.4293pt x 320.87367pt.
+ [65 <./images/correlations/spatial/anomalous_monthly_raw_1_nsidc.pdf>]
+<images/correlations/spatial/raw_seasonal_detrended_1_nsidc.pdf, id=2119, 372.8
+9188pt x 320.87447pt>
+File: images/correlations/spatial/raw_seasonal_detrended_1_nsidc.pdf Graphic fi
+le (type pdf)
+<use images/correlations/spatial/raw_seasonal_detrended_1_nsidc.pdf>
+Package pdftex.def Info: images/correlations/spatial/raw_seasonal_detrended_1_n
+sidc.pdf  used on input line 57.
+(pdftex.def)             Requested size: 372.89096pt x 320.87367pt.
+ [66 <./images/correlations/spatial/anomalous_monthly_detrended_1_nsidc.pdf>]
+<images/correlations/spatial/anomalous_seasonal_raw_1_nsidc.pdf, id=2138, 360.6
+9037pt x 320.87447pt>
+File: images/correlations/spatial/anomalous_seasonal_raw_1_nsidc.pdf Graphic fi
+le (type pdf)
+<use images/correlations/spatial/anomalous_seasonal_raw_1_nsidc.pdf>
+Package pdftex.def Info: images/correlations/spatial/anomalous_seasonal_raw_1_n
+sidc.pdf  used on input line 57.
+(pdftex.def)             Requested size: 360.68947pt x 320.87367pt.
+ [67 <./images/correlations/spatial/raw_seasonal_raw_1_nsidc.pdf>]
+<images/correlations/spatial/anomalous_seasonal_detrended_1_nsidc.pdf, id=2158,
+ 393.58995pt x 320.87447pt>
+File: images/correlations/spatial/anomalous_seasonal_detrended_1_nsidc.pdf Grap
+hic file (type pdf)
+<use images/correlations/spatial/anomalous_seasonal_detrended_1_nsidc.pdf>
+Package pdftex.def Info: images/correlations/spatial/anomalous_seasonal_detrend
+ed_1_nsidc.pdf  used on input line 57.
+(pdftex.def)             Requested size: 393.58899pt x 320.87367pt.
+
+Overfull \hbox (3.58899pt too wide) in paragraph at lines 57--57
+[][] 
+ []
+
+[68 <./images/correlations/spatial/raw_seasonal_detrended_1_nsidc.pdf>]
+<images/correlations/spatial/raw_annual_raw_1_nsidc.pdf, id=2177, 346.43016pt x
+ 320.87447pt>
+File: images/correlations/spatial/raw_annual_raw_1_nsidc.pdf Graphic file (type
+ pdf)
+<use images/correlations/spatial/raw_annual_raw_1_nsidc.pdf>
+Package pdftex.def Info: images/correlations/spatial/raw_annual_raw_1_nsidc.pdf
+  used on input line 57.
+(pdftex.def)             Requested size: 346.4293pt x 320.87367pt.
+
+[69 <./images/correlations/spatial/anomalous_seasonal_raw_1_nsidc.pdf>]
+<images/correlations/spatial/raw_annual_detrended_1_nsidc.pdf, id=2196, 368.309
+42pt x 320.87447pt>
+File: images/correlations/spatial/raw_annual_detrended_1_nsidc.pdf Graphic file
+ (type pdf)
+<use images/correlations/spatial/raw_annual_detrended_1_nsidc.pdf>
+Package pdftex.def Info: images/correlations/spatial/raw_annual_detrended_1_nsi
+dc.pdf  used on input line 57.
+(pdftex.def)             Requested size: 368.30852pt x 320.87367pt.
+
+[70 <./images/correlations/spatial/anomalous_seasonal_detrended_1_nsidc.pdf>]
+<images/correlations/spatial/anomalous_annual_raw_1_nsidc.pdf, id=2215, 356.107
+91pt x 320.87447pt>
+File: images/correlations/spatial/anomalous_annual_raw_1_nsidc.pdf Graphic file
+ (type pdf)
+<use images/correlations/spatial/anomalous_annual_raw_1_nsidc.pdf>
+Package pdftex.def Info: images/correlations/spatial/anomalous_annual_raw_1_nsi
+dc.pdf  used on input line 57.
+(pdftex.def)             Requested size: 356.10703pt x 320.87367pt.
+
+[71 <./images/correlations/spatial/raw_annual_raw_1_nsidc.pdf>]
+<images/correlations/spatial/anomalous_annual_detrended_1_nsidc.pdf, id=2234, 3
+89.00749pt x 320.87447pt>
+File: images/correlations/spatial/anomalous_annual_detrended_1_nsidc.pdf Graphi
+c file (type pdf)
+<use images/correlations/spatial/anomalous_annual_detrended_1_nsidc.pdf>
+Package pdftex.def Info: images/correlations/spatial/anomalous_annual_detrended
+_1_nsidc.pdf  used on input line 57.
+(pdftex.def)             Requested size: 389.00655pt x 320.87367pt.
+ [72 <./images/correlations/spatial/raw_annual_detrended_1_nsidc.pdf>]) [73 <./
+images/correlations/spatial/anomalous_annual_raw_1_nsidc.pdf>] (sections/regres
+sions.tex
+<images/regressions/single/raw_monthly_raw_1_nsidc.pdf, id=2272, 369.781pt x 44
+2.05101pt>
+File: images/regressions/single/raw_monthly_raw_1_nsidc.pdf Graphic file (type 
+pdf)
+<use images/regressions/single/raw_monthly_raw_1_nsidc.pdf>
+Package pdftex.def Info: images/regressions/single/raw_monthly_raw_1_nsidc.pdf 
+ used on input line 12.
+(pdftex.def)             Requested size: 369.78009pt x 442.04993pt.
+<images/regressions/single/raw_monthly_detrended_1_nsidc.pdf, id=2273, 369.781p
+t x 442.05101pt>
+File: images/regressions/single/raw_monthly_detrended_1_nsidc.pdf Graphic file 
+(type pdf)
+<use images/regressions/single/raw_monthly_detrended_1_nsidc.pdf>
+Package pdftex.def Info: images/regressions/single/raw_monthly_detrended_1_nsid
+c.pdf  used on input line 12.
+(pdftex.def)             Requested size: 369.78009pt x 442.04993pt.
+
+[74 <./images/correlations/spatial/anomalous_annual_detrended_1_nsidc.pdf>]
+<images/regressions/single/anomalous_monthly_raw_1_nsidc.pdf, id=2292, 369.781p
+t x 442.05101pt>
+File: images/regressions/single/anomalous_monthly_raw_1_nsidc.pdf Graphic file 
+(type pdf)
+<use images/regressions/single/anomalous_monthly_raw_1_nsidc.pdf>
+Package pdftex.def Info: images/regressions/single/anomalous_monthly_raw_1_nsid
+c.pdf  used on input line 12.
+(pdftex.def)             Requested size: 369.78009pt x 442.04993pt.
+
+[75 <./images/regressions/single/raw_monthly_raw_1_nsidc.pdf>]
+<images/regressions/single/anomalous_monthly_detrended_1_nsidc.pdf, id=2315, 38
+0.41273pt x 442.05101pt>
+File: images/regressions/single/anomalous_monthly_detrended_1_nsidc.pdf Graphic
+ file (type pdf)
+<use images/regressions/single/anomalous_monthly_detrended_1_nsidc.pdf>
+Package pdftex.def Info: images/regressions/single/anomalous_monthly_detrended_
+1_nsidc.pdf  used on input line 12.
+(pdftex.def)             Requested size: 380.41179pt x 442.04993pt.
+ [76 <./images/regressions/single/raw_monthly_detrended_1_nsidc.pdf>]
+<images/regressions/single/raw_seasonal_raw_1_nsidc.pdf, id=2335, 369.781pt x 4
+42.05101pt>
+File: images/regressions/single/raw_seasonal_raw_1_nsidc.pdf Graphic file (type
+ pdf)
+<use images/regressions/single/raw_seasonal_raw_1_nsidc.pdf>
+Package pdftex.def Info: images/regressions/single/raw_seasonal_raw_1_nsidc.pdf
+  used on input line 12.
+(pdftex.def)             Requested size: 369.78009pt x 442.04993pt.
+ [77 <./images/regressions/single/anomalous_monthly_raw_1_nsidc.pdf>]
+<images/regressions/single/raw_seasonal_detrended_1_nsidc.pdf, id=2358, 369.781
+pt x 442.05101pt>
+File: images/regressions/single/raw_seasonal_detrended_1_nsidc.pdf Graphic file
+ (type pdf)
+<use images/regressions/single/raw_seasonal_detrended_1_nsidc.pdf>
+Package pdftex.def Info: images/regressions/single/raw_seasonal_detrended_1_nsi
+dc.pdf  used on input line 12.
+(pdftex.def)             Requested size: 369.78009pt x 442.04993pt.
+ [78 <./images/regressions/single/anomalous_monthly_detrended_1_nsidc.pdf>]
+<images/regressions/single/anomalous_seasonal_raw_1_nsidc.pdf, id=2381, 369.781
+pt x 442.05101pt>
+File: images/regressions/single/anomalous_seasonal_raw_1_nsidc.pdf Graphic file
+ (type pdf)
+<use images/regressions/single/anomalous_seasonal_raw_1_nsidc.pdf>
+Package pdftex.def Info: images/regressions/single/anomalous_seasonal_raw_1_nsi
+dc.pdf  used on input line 12.
+(pdftex.def)             Requested size: 369.78009pt x 442.04993pt.
+ [79 <./images/regressions/single/raw_seasonal_raw_1_nsidc.pdf>]
+<images/regressions/single/anomalous_seasonal_detrended_1_nsidc.pdf, id=2402, 3
+79.78607pt x 442.05101pt>
+File: images/regressions/single/anomalous_seasonal_detrended_1_nsidc.pdf Graphi
+c file (type pdf)
+<use images/regressions/single/anomalous_seasonal_detrended_1_nsidc.pdf>
+Package pdftex.def Info: images/regressions/single/anomalous_seasonal_detrended
+_1_nsidc.pdf  used on input line 12.
+(pdftex.def)             Requested size: 379.78514pt x 442.04993pt.
+ [80 <./images/regressions/single/raw_seasonal_detrended_1_nsidc.pdf>]
+<images/regressions/single/raw_annual_raw_1_nsidc.pdf, id=2422, 369.781pt x 442
+.05101pt>
+File: images/regressions/single/raw_annual_raw_1_nsidc.pdf Graphic file (type p
+df)
+<use images/regressions/single/raw_annual_raw_1_nsidc.pdf>
+Package pdftex.def Info: images/regressions/single/raw_annual_raw_1_nsidc.pdf  
+used on input line 12.
+(pdftex.def)             Requested size: 369.78009pt x 442.04993pt.
+ [81 <./images/regressions/single/anomalous_seasonal_raw_1_nsidc.pdf>]
+<images/regressions/single/raw_annual_detrended_1_nsidc.pdf, id=2442, 369.781pt
+ x 442.05101pt>
+File: images/regressions/single/raw_annual_detrended_1_nsidc.pdf Graphic file (
+type pdf)
+<use images/regressions/single/raw_annual_detrended_1_nsidc.pdf>
+Package pdftex.def Info: images/regressions/single/raw_annual_detrended_1_nsidc
+.pdf  used on input line 12.
+(pdftex.def)             Requested size: 369.78009pt x 442.04993pt.
+ [82 <./images/regressions/single/anomalous_seasonal_detrended_1_nsidc.pdf>]
+<images/regressions/single/anomalous_annual_raw_1_nsidc.pdf, id=2462, 369.781pt
+ x 442.05101pt>
+File: images/regressions/single/anomalous_annual_raw_1_nsidc.pdf Graphic file (
+type pdf)
+<use images/regressions/single/anomalous_annual_raw_1_nsidc.pdf>
+Package pdftex.def Info: images/regressions/single/anomalous_annual_raw_1_nsidc
+.pdf  used on input line 12.
+(pdftex.def)             Requested size: 369.78009pt x 442.04993pt.
+ [83 <./images/regressions/single/raw_annual_raw_1_nsidc.pdf>]
+<images/regressions/single/anomalous_annual_detrended_1_nsidc.pdf, id=2485, 370
+.62119pt x 442.05101pt>
+File: images/regressions/single/anomalous_annual_detrended_1_nsidc.pdf Graphic 
+file (type pdf)
+<use images/regressions/single/anomalous_annual_detrended_1_nsidc.pdf>
+Package pdftex.def Info: images/regressions/single/anomalous_annual_detrended_1
+_nsidc.pdf  used on input line 12.
+(pdftex.def)             Requested size: 370.62027pt x 442.04993pt.
+ [84 <./images/regressions/single/raw_annual_detrended_1_nsidc.pdf>]) [85 <./im
+ages/regressions/single/anomalous_annual_raw_1_nsidc.pdf>] [86 <./images/regres
+sions/single/anomalous_annual_detrended_1_nsidc.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 47.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 50.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 50.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9F15339090F11AA1B9EF73FBD45D34E2;502.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 47.
+(rerunfilecheck)             Checksum: A62F6AB94C22867BAA660E1873195026;797.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 50.
  ) 
 Here is how much of TeX's memory you used:
- 12049 strings out of 492973
- 249504 string characters out of 3126249
- 266058 words of memory out of 3000000
- 15496 multiletter control sequences out of 15000+200000
+ 12229 strings out of 492973
+ 257800 string characters out of 3126249
+ 267058 words of memory out of 3000000
+ 15599 multiletter control sequences out of 15000+200000
  8808 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,7n,40p,360b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,8n,40p,360b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Hamish/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmbx12.pfb><C:/Users/Hamish/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmmi12.pfb><C:/Users/Hamish/AppData/Local/Programs/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Hamish/AppData/Local/Progr
 ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Hamish/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (60 pages, 1538387 bytes).
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/H
+amish/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb>
+Output written on main.pdf (86 pages, 11321837 bytes).
 PDF statistics:
- 1763 PDF objects out of 2073 (max. 8388607)
- 167 named destinations out of 1000 (max. 500000)
- 725 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2619 PDF objects out of 2984 (max. 8388607)
+ 224 named destinations out of 1000 (max. 500000)
+ 885 words of extra memory for PDF output out of 10000 (max. 10000000)
 
